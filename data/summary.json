@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-01",
+  "articles": 59,
+  "levels": {
+    "1": 42,
+    "2": 15,
+    "Uavklart": 2
+  },
+  "roles": {
+    "Medforfatter": 38,
+    "Sisteforfatter": 12,
+    "Delt seniorforfatter": 1,
+    "Førsteforfatter": 8
+  },
+  "last_or_shared_senior": 13,
+  "book_chapters": 1,
+  "cv_citations": {
+    "google_scholar": 1764,
+    "web_of_science_without_self_citations": 1073,
+    "date": "2026-05",
+    "source": "CV.pdf; ikke direkte kontrollert i databasene"
+  },
+  "article_citations": 1582,
+  "h_index_articles": 23,
+  "i10_articles": 36,
+  "median_citations": 14,
+  "mean_citations": 26.8,
+  "openalex_profile_works": 126,
+  "openalex_profile_citations": 1618,
+  "openalex_profile_h_index": 23
+}
