@@ -1,0 +1,7 @@
+Leif Oltedal – publikasjonsoversikt
+
+Pakk ut ZIP-filen og åpne index.html i nettleseren.
+Behold mappestrukturen slik at CSV- og JSON-nedlastingene fungerer.
+Siden har innebygde stiler, grafikk og søkefunksjon. Internett kreves bare for eksterne kildelenker.
+
+For publisering: last opp innholdet i mappen til ønsket mappe på webserveren. Ingen database eller installasjon kreves.
