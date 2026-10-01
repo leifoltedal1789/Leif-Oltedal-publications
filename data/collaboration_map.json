@@ -1,0 +1,6717 @@
+{
+  "institutions": [
+    {
+      "id": "https://openalex.org/I1333353642",
+      "name": "Norwegian Institute of Public Health",
+      "ror": "https://ror.org/046nvst19",
+      "city": "Oslo",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.91273,
+      "lon": 10.74609,
+      "refs": [
+        1,
+        2,
+        11,
+        21
+      ],
+      "city_id": "NO:59.913:10.746"
+    },
+    {
+      "id": "https://openalex.org/I4210129856",
+      "name": "Cancer Registry of Norway",
+      "ror": "https://ror.org/03sm1ej59",
+      "city": "Oslo",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.9127311706543,
+      "lon": 10.746089935302734,
+      "refs": [
+        1,
+        11,
+        21
+      ],
+      "city_id": "NO:59.913:10.746"
+    },
+    {
+      "id": "https://openalex.org/I2800740805",
+      "name": "Haukeland University Hospital",
+      "ror": "https://ror.org/03np4e098",
+      "city": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.39299,
+      "lon": 5.32415,
+      "refs": [
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        56
+      ],
+      "city_id": "NO:60.393:5.324"
+    },
+    {
+      "id": "https://openalex.org/I142263535",
+      "name": "University of Nottingham",
+      "ror": "https://ror.org/01ee9ar58",
+      "city": "Nottingham",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 52.9536,
+      "lon": -1.15047,
+      "refs": [
+        1
+      ],
+      "city_id": "GB:52.954:-1.150"
+    },
+    {
+      "id": "https://openalex.org/I78037679",
+      "name": "UiT The Arctic University of Norway",
+      "ror": "https://ror.org/00wge5k78",
+      "city": "Tromsø",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 69.6489,
+      "lon": 18.95508,
+      "refs": [
+        1,
+        2,
+        11,
+        18,
+        21,
+        54
+      ],
+      "city_id": "NO:69.649:18.955"
+    },
+    {
+      "id": "https://openalex.org/I4405258522",
+      "name": "Deutsches Zentrum für Psychische Gesundheit",
+      "ror": "https://ror.org/00tkfw097",
+      "city": "Berlin",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 52.52437,
+      "lon": 13.41053,
+      "refs": [
+        3,
+        7,
+        13,
+        16
+      ],
+      "city_id": "DE:52.524:13.411"
+    },
+    {
+      "id": "https://openalex.org/I7877124",
+      "name": "Charité - Universitätsmedizin Berlin",
+      "ror": "https://ror.org/001w7jn25",
+      "city": "Berlin",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 52.52437,
+      "lon": 13.41053,
+      "refs": [
+        3
+      ],
+      "city_id": "DE:52.524:13.411"
+    },
+    {
+      "id": "https://openalex.org/I4068193",
+      "name": "University of Belgrade",
+      "ror": "https://ror.org/02qsmb048",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "country_code": "RS",
+      "lat": 44.80401,
+      "lon": 20.46513,
+      "refs": [
+        3
+      ],
+      "city_id": "RS:44.804:20.465"
+    },
+    {
+      "id": "https://openalex.org/I4400008901",
+      "name": "Institute for Medical Research",
+      "ror": "https://ror.org/02vde2j43",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "country_code": null,
+      "lat": 44.80400848388672,
+      "lon": 20.465129852294922,
+      "refs": [
+        3
+      ],
+      "city_id": "None:44.804:20.465"
+    },
+    {
+      "id": "https://openalex.org/I100532134",
+      "name": "Lyon 1 Université",
+      "ror": "https://ror.org/029brtt94",
+      "city": "Villeurbanne",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.76601,
+      "lon": 4.8795,
+      "refs": [
+        3,
+        56
+      ],
+      "city_id": "FR:45.766:4.880"
+    },
+    {
+      "id": "https://openalex.org/I1294671590",
+      "name": "Centre National de la Recherche Scientifique",
+      "ror": "https://ror.org/02feahw73",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        3,
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I154526488",
+      "name": "Inserm",
+      "ror": "https://ror.org/02vjkv261",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        3,
+        7,
+        13,
+        16,
+        23,
+        29,
+        45,
+        56
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210095118",
+      "name": "Centre de Recherche en Neurosciences de Lyon",
+      "ror": "https://ror.org/00pdd0432",
+      "city": "Bron",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.73865,
+      "lon": 4.91303,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:45.739:4.913"
+    },
+    {
+      "id": "https://openalex.org/I1326498283",
+      "name": "Institut national de recherche en sciences et technologies du numérique",
+      "ror": "https://ror.org/02kvxyf05",
+      "city": "Le Chesnay-Rocquencourt",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.8205,
+      "lon": 2.1311,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:48.821:2.131"
+    },
+    {
+      "id": "https://openalex.org/I2802519937",
+      "name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+      "ror": "https://ror.org/00myn0z94",
+      "city": "Rennes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.11109,
+      "lon": -1.67431,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:48.111:-1.674"
+    },
+    {
+      "id": "https://openalex.org/I4210116274",
+      "name": "CIC Rennes",
+      "ror": "https://ror.org/02baj6743",
+      "city": "Rennes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.11198,
+      "lon": -1.67429,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:48.112:-1.674"
+    },
+    {
+      "id": "https://openalex.org/I4210149957",
+      "name": "Centre Hospitalier Guillaume Régnier",
+      "ror": "https://ror.org/044d2hn91",
+      "city": "Rennes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.11198,
+      "lon": -1.67429,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:48.112:-1.674"
+    },
+    {
+      "id": "https://openalex.org/I4387152452",
+      "name": "Empenn",
+      "ror": "https://ror.org/02hp31992",
+      "city": "Rennes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.11109,
+      "lon": -1.67431,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:48.111:-1.674"
+    },
+    {
+      "id": "https://openalex.org/I56067802",
+      "name": "Université de Rennes",
+      "ror": "https://ror.org/015m7wh34",
+      "city": "Rennes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.11109,
+      "lon": -1.67431,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:48.111:-1.674"
+    },
+    {
+      "id": "https://openalex.org/I193662353",
+      "name": "Utrecht University",
+      "ror": "https://ror.org/04pp8hn57",
+      "city": "Utrecht",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.09083,
+      "lon": 5.12222,
+      "refs": [
+        3
+      ],
+      "city_id": "NL:52.091:5.122"
+    },
+    {
+      "id": "https://openalex.org/I3018483916",
+      "name": "University Medical Center Utrecht",
+      "ror": "https://ror.org/0575yy874",
+      "city": "Utrecht",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.09083,
+      "lon": 5.12222,
+      "refs": [
+        3,
+        7,
+        13,
+        16,
+        17,
+        23,
+        48
+      ],
+      "city_id": "NL:52.091:5.122"
+    },
+    {
+      "id": "https://openalex.org/I193223587",
+      "name": "University of Trento",
+      "ror": "https://ror.org/05trd4x28",
+      "city": "Trento",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 46.06787109375,
+      "lon": 11.12108039855957,
+      "refs": [
+        3
+      ],
+      "city_id": "IT:46.068:11.121"
+    },
+    {
+      "id": "https://openalex.org/I114090438",
+      "name": "Goethe University Frankfurt",
+      "ror": "https://ror.org/04cvxnb49",
+      "city": "Frankfurt am Main",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.11552,
+      "lon": 8.68417,
+      "refs": [
+        3,
+        16
+      ],
+      "city_id": "DE:50.116:8.684"
+    },
+    {
+      "id": "https://openalex.org/I4210132578",
+      "name": "University Hospital Frankfurt",
+      "ror": "https://ror.org/03f6n9m15",
+      "city": "Frankfurt am Main",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.11552,
+      "lon": 8.68417,
+      "refs": [
+        3,
+        16,
+        45
+      ],
+      "city_id": "DE:50.116:8.684"
+    },
+    {
+      "id": "https://openalex.org/I240202130",
+      "name": "Cumbria Northumberland Tyne and Wear NHS Foundation Trust",
+      "ror": "https://ror.org/01ajv0n48",
+      "city": "Newcastle upon Tyne",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 54.97328186035156,
+      "lon": -1.6139600276947021,
+      "refs": [
+        3,
+        40,
+        45
+      ],
+      "city_id": "GB:54.973:-1.614"
+    },
+    {
+      "id": "https://openalex.org/I4210133722",
+      "name": "NIHR Newcastle Biomedical Research Centre",
+      "ror": "https://ror.org/044m9mw93",
+      "city": "Newcastle upon Tyne",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 54.97328,
+      "lon": -1.61396,
+      "refs": [
+        3
+      ],
+      "city_id": "GB:54.973:-1.614"
+    },
+    {
+      "id": "https://openalex.org/I84884186",
+      "name": "Newcastle University",
+      "ror": "https://ror.org/01kj2bm70",
+      "city": "Newcastle upon Tyne",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 54.97328,
+      "lon": -1.61396,
+      "refs": [
+        3,
+        40,
+        45
+      ],
+      "city_id": "GB:54.973:-1.614"
+    },
+    {
+      "id": "https://openalex.org/I4210153937",
+      "name": "Institute of Psychiatry and Neurology",
+      "ror": "https://ror.org/0468k6j36",
+      "city": "Warsaw",
+      "country": "Poland",
+      "country_code": "PL",
+      "lat": 52.22977,
+      "lon": 21.01178,
+      "refs": [
+        3
+      ],
+      "city_id": "PL:52.230:21.012"
+    },
+    {
+      "id": "https://openalex.org/I26437253",
+      "name": "Örebro University",
+      "ror": "https://ror.org/05kytsw45",
+      "city": "Örebro",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 59.27412033081055,
+      "lon": 15.206600189208984,
+      "refs": [
+        3,
+        4,
+        40
+      ],
+      "city_id": "SE:59.274:15.207"
+    },
+    {
+      "id": "https://openalex.org/I183935753",
+      "name": "King's College London",
+      "ror": "https://ror.org/0220mzb33",
+      "city": "London",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.50853,
+      "lon": -0.12574,
+      "refs": [
+        3,
+        40,
+        45
+      ],
+      "city_id": "GB:51.509:-0.126"
+    },
+    {
+      "id": "https://openalex.org/I78650965",
+      "name": "Technische Universität Dresden",
+      "ror": "https://ror.org/042aqky30",
+      "city": "Dresden",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.05089,
+      "lon": 13.73832,
+      "refs": [
+        3,
+        45
+      ],
+      "city_id": "DE:51.051:13.738"
+    },
+    {
+      "id": "https://openalex.org/I21250087",
+      "name": "Charles University",
+      "ror": "https://ror.org/024d6js02",
+      "city": "Prague",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "lat": 50.08804,
+      "lon": 14.42076,
+      "refs": [
+        3
+      ],
+      "city_id": "CZ:50.088:14.421"
+    },
+    {
+      "id": "https://openalex.org/I4210167247",
+      "name": "National Institute of Mental Health",
+      "ror": "https://ror.org/05xj56w78",
+      "city": "Klecany",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "lat": 50.17599105834961,
+      "lon": 14.411479949951172,
+      "refs": [
+        3
+      ],
+      "city_id": "CZ:50.176:14.411"
+    },
+    {
+      "id": "https://openalex.org/I4210132398",
+      "name": "Kempenhaeghe",
+      "ror": "https://ror.org/03bbe8e53",
+      "city": "Heeze",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "lat": 51.36370086669922,
+      "lon": 5.593789100646973,
+      "refs": [
+        3
+      ],
+      "city_id": "NL:51.364:5.594"
+    },
+    {
+      "id": "https://openalex.org/I83019370",
+      "name": "Eindhoven University of Technology",
+      "ror": "https://ror.org/02c2kyt77",
+      "city": "Eindhoven",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.44083,
+      "lon": 5.47778,
+      "refs": [
+        3
+      ],
+      "city_id": "NL:51.441:5.478"
+    },
+    {
+      "id": "https://openalex.org/I4210114068",
+      "name": "Centre Hospitalier Universitaire de Caen Normandie",
+      "ror": "https://ror.org/027arzy69",
+      "city": "Caen",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 49.18585,
+      "lon": -0.35912,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:49.186:-0.359"
+    },
+    {
+      "id": "https://openalex.org/I70900168",
+      "name": "Université Savoie Mont Blanc",
+      "ror": "https://ror.org/04gqg1a07",
+      "city": "Chambéry",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.56628,
+      "lon": 5.92079,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:45.566:5.921"
+    },
+    {
+      "id": "https://openalex.org/I899635006",
+      "name": "Université Grenoble Alpes",
+      "ror": "https://ror.org/02rx3b187",
+      "city": "Saint-Martin-d'Hères",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.1787,
+      "lon": 5.76281,
+      "refs": [
+        3
+      ],
+      "city_id": "FR:45.179:5.763"
+    },
+    {
+      "id": "https://openalex.org/I76903346",
+      "name": "University of Coimbra",
+      "ror": "https://ror.org/04z8k9a98",
+      "city": "Coimbra",
+      "country": "Portugal",
+      "country_code": "PT",
+      "lat": 40.20686,
+      "lon": -8.41996,
+      "refs": [
+        3
+      ],
+      "city_id": "PT:40.207:-8.420"
+    },
+    {
+      "id": "https://openalex.org/I22465464",
+      "name": "University of Münster",
+      "ror": "https://ror.org/00pd74e08",
+      "city": "Münster",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.96236,
+      "lon": 7.62571,
+      "refs": [
+        3,
+        7,
+        13,
+        16,
+        23,
+        33,
+        34,
+        37,
+        38,
+        40,
+        41,
+        43,
+        46,
+        48
+      ],
+      "city_id": "DE:51.962:7.626"
+    },
+    {
+      "id": "https://openalex.org/I4432739",
+      "name": "University of Bergen",
+      "ror": "https://ror.org/03zga2b32",
+      "city": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.39299,
+      "lon": 5.32415,
+      "refs": [
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        56,
+        59
+      ],
+      "city_id": "NO:60.393:5.324"
+    },
+    {
+      "id": "https://openalex.org/I2800132241",
+      "name": "Stavanger University Hospital",
+      "ror": "https://ror.org/04zn72g03",
+      "city": "Stavanger",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 58.97005,
+      "lon": 5.73332,
+      "refs": [
+        4
+      ],
+      "city_id": "NO:58.970:5.733"
+    },
+    {
+      "id": "https://openalex.org/I4210152306",
+      "name": "Rijnstate Hospital",
+      "ror": "https://ror.org/0561z8p38",
+      "city": "Arnhem",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.97999954223633,
+      "lon": 5.911109924316406,
+      "refs": [
+        5,
+        7,
+        13,
+        14,
+        16,
+        17,
+        22,
+        23,
+        27,
+        30
+      ],
+      "city_id": "NL:51.980:5.911"
+    },
+    {
+      "id": "https://openalex.org/I94624287",
+      "name": "University of Twente",
+      "ror": "https://ror.org/006hf6230",
+      "city": "Enschede",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.21833,
+      "lon": 6.89583,
+      "refs": [
+        5,
+        17,
+        22,
+        30
+      ],
+      "city_id": "NL:52.218:6.896"
+    },
+    {
+      "id": "https://openalex.org/I2802928900",
+      "name": "Amsterdam UMC Location University of Amsterdam",
+      "ror": "https://ror.org/03t4gr691",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        5,
+        7,
+        13,
+        16,
+        22,
+        23,
+        27
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I4210108594",
+      "name": "Amsterdam Neuroscience",
+      "ror": "https://ror.org/01x2d9f70",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        5,
+        7,
+        13,
+        14,
+        16,
+        17,
+        22,
+        23,
+        27,
+        29,
+        30,
+        33,
+        37,
+        38,
+        43,
+        46
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I887064364",
+      "name": "University of Amsterdam",
+      "ror": "https://ror.org/04dkp9463",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        5,
+        14,
+        16,
+        30
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I4210085896",
+      "name": "Parnassia Groep",
+      "ror": "https://ror.org/002wh3v03",
+      "city": "The Hague",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "lat": 52.0766716003418,
+      "lon": 4.298610210418701,
+      "refs": [
+        5
+      ],
+      "city_id": "NL:52.077:4.299"
+    },
+    {
+      "id": "https://openalex.org/I4210151833",
+      "name": "Amsterdam University Medical Centers",
+      "ror": "https://ror.org/05grdyy37",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        5,
+        7,
+        14,
+        16,
+        17,
+        23,
+        27,
+        29,
+        30,
+        33,
+        37,
+        38
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I1327576362",
+      "name": "Feinstein Institute for Medical Research",
+      "ror": "https://ror.org/05dnene97",
+      "city": "Manhasset",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.79787826538086,
+      "lon": -73.69956970214844,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        23,
+        27,
+        30,
+        33,
+        37,
+        38,
+        43,
+        46,
+        48
+      ],
+      "city_id": "US:40.798:-73.700"
+    },
+    {
+      "id": "https://openalex.org/I4210166545",
+      "name": "Zucker Hillside Hospital",
+      "ror": "https://ror.org/05vh9vp33",
+      "city": "New York",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.75330352783203,
+      "lon": -73.71090698242188,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        33,
+        37,
+        43
+      ],
+      "city_id": "US:40.753:-73.711"
+    },
+    {
+      "id": "https://openalex.org/I99464096",
+      "name": "KU Leuven",
+      "ror": "https://ror.org/05f950310",
+      "city": "Leuven",
+      "country": "Belgium",
+      "country_code": "BE",
+      "lat": 50.87959,
+      "lon": 4.70093,
+      "refs": [
+        7,
+        10,
+        12,
+        13,
+        16,
+        17,
+        23,
+        27,
+        29,
+        33,
+        37,
+        38,
+        43,
+        46,
+        48
+      ],
+      "city_id": "BE:50.880:4.701"
+    },
+    {
+      "id": "https://openalex.org/I1283280774",
+      "name": "Brigham and Women's Hospital",
+      "ror": "https://ror.org/04b6nzv94",
+      "city": "Boston",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.35843,
+      "lon": -71.05977,
+      "refs": [
+        7
+      ],
+      "city_id": "US:42.358:-71.060"
+    },
+    {
+      "id": "https://openalex.org/I136199984",
+      "name": "Harvard University",
+      "ror": "https://ror.org/03vek6s52",
+      "city": "Cambridge",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.3751,
+      "lon": -71.10561,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        21,
+        23
+      ],
+      "city_id": "US:42.375:-71.106"
+    },
+    {
+      "id": "https://openalex.org/I4210087915",
+      "name": "Massachusetts General Hospital",
+      "ror": "https://ror.org/002pd6e78",
+      "city": "Boston",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.35843,
+      "lon": -71.05977,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        23
+      ],
+      "city_id": "US:42.358:-71.060"
+    },
+    {
+      "id": "https://openalex.org/I123044942",
+      "name": "Universitat Autònoma de Barcelona",
+      "ror": "https://ror.org/052g8jq94",
+      "city": "Cerdanyola del Vallès",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.49109,
+      "lon": 2.14079,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        40
+      ],
+      "city_id": "ES:41.491:2.141"
+    },
+    {
+      "id": "https://openalex.org/I2801357902",
+      "name": "Instituto de Salud Carlos III",
+      "ror": "https://ror.org/00ca2c886",
+      "city": "Madrid",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 40.4165,
+      "lon": -3.70256,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        43
+      ],
+      "city_id": "ES:40.416:-3.703"
+    },
+    {
+      "id": "https://openalex.org/I2801795740",
+      "name": "Hospital de Sant Pau",
+      "ror": "https://ror.org/059n1d175",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        7,
+        13,
+        16,
+        23
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I4210090703",
+      "name": "Centro de Investigación Biomédica en Red de Salud Mental",
+      "ror": "https://ror.org/009byq155",
+      "city": "Madrid",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 40.47548294067383,
+      "lon": -3.6899960041046143,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        40,
+        43,
+        45
+      ],
+      "city_id": "ES:40.475:-3.690"
+    },
+    {
+      "id": "https://openalex.org/I4387155026",
+      "name": "Institut de Recerca Sant Pau",
+      "ror": "https://ror.org/005teat46",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        7,
+        13,
+        23
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I911458345",
+      "name": "Amsterdam UMC Location Vrije Universiteit Amsterdam",
+      "ror": "https://ror.org/00q6h8f30",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        23,
+        43
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I161318765",
+      "name": "University of California, Los Angeles",
+      "ror": "https://ror.org/046rm7j60",
+      "city": "Los Angeles",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 34.05223,
+      "lon": -118.24368,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        23,
+        27,
+        33,
+        34,
+        37,
+        38,
+        41,
+        43,
+        46,
+        48
+      ],
+      "city_id": "US:34.052:-118.244"
+    },
+    {
+      "id": "https://openalex.org/I129877168",
+      "name": "Carl von Ossietzky Universität Oldenburg",
+      "ror": "https://ror.org/033n9gh91",
+      "city": "Oldenburg",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 53.14039,
+      "lon": 8.21479,
+      "refs": [
+        7,
+        8,
+        13,
+        16
+      ],
+      "city_id": "DE:53.140:8.215"
+    },
+    {
+      "id": "https://openalex.org/I124055696",
+      "name": "University of Copenhagen",
+      "ror": "https://ror.org/035b05819",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.67594,
+      "lon": 12.56553,
+      "refs": [
+        7,
+        13,
+        17,
+        23,
+        29,
+        33,
+        37,
+        38,
+        46
+      ],
+      "city_id": "DK:55.676:12.566"
+    },
+    {
+      "id": "https://openalex.org/I135140700",
+      "name": "University of Bonn",
+      "ror": "https://ror.org/041nas322",
+      "city": "Bonn",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.73438,
+      "lon": 7.09549,
+      "refs": [
+        7,
+        8,
+        16,
+        23,
+        39
+      ],
+      "city_id": "DE:50.734:7.095"
+    },
+    {
+      "id": "https://openalex.org/I2799391451",
+      "name": "University Hospital Bonn",
+      "ror": "https://ror.org/01xnwqx93",
+      "city": "Bonn",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.73438,
+      "lon": 7.09549,
+      "refs": [
+        7,
+        8,
+        13,
+        16,
+        23
+      ],
+      "city_id": "DE:50.734:7.095"
+    },
+    {
+      "id": "https://openalex.org/I203951103",
+      "name": "Keio University",
+      "ror": "https://ror.org/02kn6nx58",
+      "city": "Tokyo",
+      "country": "Japan",
+      "country_code": "JP",
+      "lat": 35.6895,
+      "lon": 139.69171,
+      "refs": [
+        7,
+        10,
+        12,
+        13,
+        16,
+        23,
+        29,
+        33,
+        38,
+        40,
+        43
+      ],
+      "city_id": "JP:35.690:139.692"
+    },
+    {
+      "id": "https://openalex.org/I102134673",
+      "name": "Linköping University",
+      "ror": "https://ror.org/05ynxx418",
+      "city": "Linköping",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 58.41086,
+      "lon": 15.62157,
+      "refs": [
+        7,
+        16,
+        17,
+        23,
+        29,
+        33,
+        38,
+        48
+      ],
+      "city_id": "SE:58.411:15.622"
+    },
+    {
+      "id": "https://openalex.org/I76198965",
+      "name": "Friedrich Schiller University Jena",
+      "ror": "https://ror.org/05qpz1x62",
+      "city": "Jena",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.92878,
+      "lon": 11.5899,
+      "refs": [
+        7
+      ],
+      "city_id": "DE:50.929:11.590"
+    },
+    {
+      "id": "https://openalex.org/I68956291",
+      "name": "Martin Luther University Halle-Wittenberg",
+      "ror": "https://ror.org/05gqaka33",
+      "city": "Halle",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.48158,
+      "lon": 11.97947,
+      "refs": [
+        7,
+        13,
+        23,
+        34
+      ],
+      "city_id": "DE:51.482:11.979"
+    },
+    {
+      "id": "https://openalex.org/I4210102758",
+      "name": "GGz centraal",
+      "ror": "https://ror.org/01m0gv380",
+      "city": "Amersfoort",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.155,
+      "lon": 5.3875,
+      "refs": [
+        7,
+        14,
+        16,
+        17,
+        23,
+        29
+      ],
+      "city_id": "NL:52.155:5.388"
+    },
+    {
+      "id": "https://openalex.org/I4210124285",
+      "name": "Amsterdam Public Health",
+      "ror": "https://ror.org/0258apj61",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        7,
+        23,
+        27
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I223822909",
+      "name": "Heidelberg University",
+      "ror": "https://ror.org/038t36y30",
+      "city": "Heidelberg",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 49.40768,
+      "lon": 8.69079,
+      "refs": [
+        7,
+        9,
+        13,
+        16
+      ],
+      "city_id": "DE:49.408:8.691"
+    },
+    {
+      "id": "https://openalex.org/I4210105615",
+      "name": "Central Institute of Mental Health",
+      "ror": "https://ror.org/01hynnt93",
+      "city": "Mannheim",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 49.48910140991211,
+      "lon": 8.466939926147461,
+      "refs": [
+        7,
+        9,
+        13,
+        16
+      ],
+      "city_id": "DE:49.489:8.467"
+    },
+    {
+      "id": "https://openalex.org/I4387153978",
+      "name": "Medizinische Fakultät Mannheim",
+      "ror": "https://ror.org/02m1z0a87",
+      "city": "Mannheim",
+      "country": "Germany",
+      "country_code": null,
+      "lat": 49.48910140991211,
+      "lon": 8.466939926147461,
+      "refs": [
+        7,
+        9,
+        13,
+        16
+      ],
+      "city_id": "None:49.489:8.467"
+    },
+    {
+      "id": "https://openalex.org/I149213910",
+      "name": "University of Antwerp",
+      "ror": "https://ror.org/008x57b05",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "country_code": "BE",
+      "lat": 51.22047,
+      "lon": 4.40026,
+      "refs": [
+        7,
+        13,
+        16,
+        23
+      ],
+      "city_id": "BE:51.220:4.400"
+    },
+    {
+      "id": "https://openalex.org/I2802050225",
+      "name": "Bellvitge University Hospital",
+      "ror": "https://ror.org/00epner96",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        38,
+        43
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I4210087039",
+      "name": "Institut d'Investigació Biomédica de Bellvitge",
+      "ror": "https://ror.org/0008xqs48",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        43
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I71999127",
+      "name": "Universitat de Barcelona",
+      "ror": "https://ror.org/021018s57",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        38,
+        40,
+        45
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I145872427",
+      "name": "Radboud University Nijmegen",
+      "ror": "https://ror.org/016xsfp80",
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.8425,
+      "lon": 5.85278,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        27,
+        30,
+        37,
+        38,
+        43
+      ],
+      "city_id": "NL:51.843:5.853"
+    },
+    {
+      "id": "https://openalex.org/I4405261313",
+      "name": "Donders Institute for Brain, Cognition and Behaviour",
+      "ror": "https://ror.org/053sba816",
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.8425,
+      "lon": 5.85278,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        27,
+        30,
+        37,
+        38,
+        43,
+        46,
+        48
+      ],
+      "city_id": "NL:51.843:5.853"
+    },
+    {
+      "id": "https://openalex.org/I3019448017",
+      "name": "Centre Hospitalier Universitaire de Toulouse",
+      "ror": "https://ror.org/017h5q109",
+      "city": "Toulouse",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 43.60426,
+      "lon": 1.44367,
+      "refs": [
+        7,
+        13,
+        16
+      ],
+      "city_id": "FR:43.604:1.444"
+    },
+    {
+      "id": "https://openalex.org/I4405258862",
+      "name": "Université de Toulouse",
+      "ror": "https://ror.org/01ahyrz84",
+      "city": "Toulouse",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 43.60426,
+      "lon": 1.44367,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29
+      ],
+      "city_id": "FR:43.604:1.444"
+    },
+    {
+      "id": "https://openalex.org/I4405264399",
+      "name": "Toulouse NeuroImaging Center",
+      "ror": "https://ror.org/01t1x3s61",
+      "city": "Toulouse",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 43.60426,
+      "lon": 1.44367,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29
+      ],
+      "city_id": "FR:43.604:1.444"
+    },
+    {
+      "id": "https://openalex.org/I78577930",
+      "name": "Columbia University",
+      "ror": "https://ror.org/00hj8s172",
+      "city": "New York",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.71427,
+      "lon": -74.00597,
+      "refs": [
+        7
+      ],
+      "city_id": "US:40.714:-74.006"
+    },
+    {
+      "id": "https://openalex.org/I867280407",
+      "name": "The University of Texas Southwestern Medical Center",
+      "ror": "https://ror.org/05byvp690",
+      "city": "Dallas",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 32.78306,
+      "lon": -96.80667,
+      "refs": [
+        7,
+        16,
+        36,
+        40,
+        41
+      ],
+      "city_id": "US:32.783:-96.807"
+    },
+    {
+      "id": "https://openalex.org/I187531555",
+      "name": "Lund University",
+      "ror": "https://ror.org/012a77v79",
+      "city": "Lund",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 55.70584,
+      "lon": 13.19321,
+      "refs": [
+        7,
+        8,
+        15,
+        16,
+        25,
+        37
+      ],
+      "city_id": "SE:55.706:13.193"
+    },
+    {
+      "id": "https://openalex.org/I4210137844",
+      "name": "Skåne University Hospital",
+      "ror": "https://ror.org/02z31g829",
+      "city": "Lund",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 55.705841064453125,
+      "lon": 13.193209648132324,
+      "refs": [
+        7
+      ],
+      "city_id": "SE:55.706:13.193"
+    },
+    {
+      "id": "https://openalex.org/I169521973",
+      "name": "University of New Mexico",
+      "ror": "https://ror.org/05fs6jp91",
+      "city": "Albuquerque",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.08449,
+      "lon": -106.65114,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        23,
+        27,
+        28,
+        29,
+        30,
+        32,
+        33,
+        34,
+        36,
+        37,
+        38,
+        41,
+        43,
+        46,
+        48
+      ],
+      "city_id": "US:35.084:-106.651"
+    },
+    {
+      "id": "https://openalex.org/I4210118808",
+      "name": "Betanien Hospital",
+      "ror": "https://ror.org/02ypbdc20",
+      "city": "Skien",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.20962142944336,
+      "lon": 9.608969688415527,
+      "refs": [
+        8
+      ],
+      "city_id": "NO:59.210:9.609"
+    },
+    {
+      "id": "https://openalex.org/I4210159752",
+      "name": "Canterbury District Health Board",
+      "ror": "https://ror.org/05tqtd486",
+      "city": "Ashburton",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "lat": -43.89834,
+      "lon": 171.73011,
+      "refs": [
+        8
+      ],
+      "city_id": "NZ:-43.898:171.730"
+    },
+    {
+      "id": "https://openalex.org/I80281795",
+      "name": "University of Otago",
+      "ror": "https://ror.org/01jmxt844",
+      "city": "Dunedin",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "lat": -45.87416,
+      "lon": 170.50361,
+      "refs": [
+        8
+      ],
+      "city_id": "NZ:-45.874:170.504"
+    },
+    {
+      "id": "https://openalex.org/I154425047",
+      "name": "University of Alberta",
+      "ror": "https://ror.org/0160cpw27",
+      "city": "Edmonton",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 53.55014,
+      "lon": -113.46871,
+      "refs": [
+        9
+      ],
+      "city_id": "CA:53.550:-113.469"
+    },
+    {
+      "id": "https://openalex.org/I179863766",
+      "name": "Western Norway University of Applied Sciences",
+      "ror": "https://ror.org/05phns765",
+      "city": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.39299,
+      "lon": 5.32415,
+      "refs": [
+        10
+      ],
+      "city_id": "NO:60.393:5.324"
+    },
+    {
+      "id": "https://openalex.org/I2803209242",
+      "name": "University of California System",
+      "ror": "https://ror.org/00pjdza24",
+      "city": "Oakland",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 37.80437,
+      "lon": -122.2708,
+      "refs": [
+        10,
+        30
+      ],
+      "city_id": "US:37.804:-122.271"
+    },
+    {
+      "id": "https://openalex.org/I36258959",
+      "name": "University of California San Diego",
+      "ror": "https://ror.org/0168r3w48",
+      "city": "San Diego",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 32.71571,
+      "lon": -117.16472,
+      "refs": [
+        10,
+        28,
+        33,
+        37,
+        38,
+        43,
+        44,
+        46,
+        48,
+        49,
+        50
+      ],
+      "city_id": "US:32.716:-117.165"
+    },
+    {
+      "id": "https://openalex.org/I28166907",
+      "name": "Karolinska Institutet",
+      "ror": "https://ror.org/056d84691",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 59.32938,
+      "lon": 18.06871,
+      "refs": [
+        11,
+        40
+      ],
+      "city_id": "SE:59.329:18.069"
+    },
+    {
+      "id": "https://openalex.org/I1298853749",
+      "name": "University Hospital of North Norway",
+      "ror": "https://ror.org/030v5kp38",
+      "city": "Tromsø",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 69.6489,
+      "lon": 18.95508,
+      "refs": [
+        11,
+        21
+      ],
+      "city_id": "NO:69.649:18.955"
+    },
+    {
+      "id": "https://openalex.org/I1281400175",
+      "name": "Oslo University Hospital",
+      "ror": "https://ror.org/00j9c2840",
+      "city": "Oslo",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.91273,
+      "lon": 10.74609,
+      "refs": [
+        11,
+        21,
+        39,
+        45,
+        50
+      ],
+      "city_id": "NO:59.913:10.746"
+    },
+    {
+      "id": "https://openalex.org/I4210103666",
+      "name": "University Hospital Münster",
+      "ror": "https://ror.org/01856cw59",
+      "city": "Münster",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.96236,
+      "lon": 7.62571,
+      "refs": [
+        11,
+        16,
+        21
+      ],
+      "city_id": "DE:51.962:7.626"
+    },
+    {
+      "id": "https://openalex.org/I204778367",
+      "name": "Norwegian University of Science and Technology",
+      "ror": "https://ror.org/05xg72x27",
+      "city": "Trondheim",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 63.43049,
+      "lon": 10.39506,
+      "refs": [
+        11,
+        21
+      ],
+      "city_id": "NO:63.430:10.395"
+    },
+    {
+      "id": "https://openalex.org/I4210104358",
+      "name": "St Olav's University Hospital",
+      "ror": "https://ror.org/01a4hbq44",
+      "city": "Trondheim",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 63.43049,
+      "lon": 10.39506,
+      "refs": [
+        11,
+        21
+      ],
+      "city_id": "NO:63.430:10.395"
+    },
+    {
+      "id": "https://openalex.org/I184942183",
+      "name": "University of Oslo",
+      "ror": "https://ror.org/01xtthb56",
+      "city": "Oslo",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.91273,
+      "lon": 10.74609,
+      "refs": [
+        11,
+        20,
+        21,
+        45,
+        50,
+        54,
+        56,
+        58,
+        59
+      ],
+      "city_id": "NO:59.913:10.746"
+    },
+    {
+      "id": "https://openalex.org/I1299303238",
+      "name": "National Institutes of Health",
+      "ror": "https://ror.org/01cwqze88",
+      "city": "Bethesda",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 38.98067,
+      "lon": -77.10026,
+      "refs": [
+        13
+      ],
+      "city_id": "US:38.981:-77.100"
+    },
+    {
+      "id": "https://openalex.org/I170897317",
+      "name": "Duke University",
+      "ror": "https://ror.org/00py81415",
+      "city": "Durham",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.99403,
+      "lon": -78.89862,
+      "refs": [
+        13,
+        36
+      ],
+      "city_id": "US:35.994:-78.899"
+    },
+    {
+      "id": "https://openalex.org/I4210126298",
+      "name": "Duke Medical Center",
+      "ror": "https://ror.org/03njmea73",
+      "city": "Durham",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.9940299987793,
+      "lon": -78.89862060546875,
+      "refs": [
+        13
+      ],
+      "city_id": "US:35.994:-78.899"
+    },
+    {
+      "id": "https://openalex.org/I4210158500",
+      "name": "National Institute of Mental Health",
+      "ror": "https://ror.org/04xeg9z08",
+      "city": "Bethesda",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 38.98067,
+      "lon": -77.10026,
+      "refs": [
+        13,
+        43
+      ],
+      "city_id": "US:38.981:-77.100"
+    },
+    {
+      "id": "https://openalex.org/I101202996",
+      "name": "Semmelweis University",
+      "ror": "https://ror.org/01g9ty582",
+      "city": "Budapest",
+      "country": "Hungary",
+      "country_code": "HU",
+      "lat": 47.49835,
+      "lon": 19.04045,
+      "refs": [
+        13
+      ],
+      "city_id": "HU:47.498:19.040"
+    },
+    {
+      "id": "https://openalex.org/I2802709434",
+      "name": "Rigshospitalet",
+      "ror": "https://ror.org/03mchdq19",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.675941467285156,
+      "lon": 12.565529823303223,
+      "refs": [
+        13,
+        17,
+        29,
+        33,
+        38,
+        46
+      ],
+      "city_id": "DK:55.676:12.566"
+    },
+    {
+      "id": "https://openalex.org/I134560555",
+      "name": "Université Toulouse III - Paul Sabatier",
+      "ror": "https://ror.org/02v6kpv12",
+      "city": "Toulouse",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 43.60426,
+      "lon": 1.44367,
+      "refs": [
+        13,
+        16,
+        23,
+        29
+      ],
+      "city_id": "FR:43.604:1.444"
+    },
+    {
+      "id": "https://openalex.org/I2802934949",
+      "name": "Radboud University Medical Center",
+      "ror": "https://ror.org/05wg1m734",
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.842498779296875,
+      "lon": 5.852779865264893,
+      "refs": [
+        13,
+        16,
+        27,
+        30,
+        37,
+        38,
+        43
+      ],
+      "city_id": "NL:51.842:5.853"
+    },
+    {
+      "id": "https://openalex.org/I4210139202",
+      "name": "GGZ inGeest",
+      "ror": "https://ror.org/042m3ve83",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403106689453,
+      "lon": 4.889689922332764,
+      "refs": [
+        14,
+        23,
+        27,
+        29,
+        33,
+        37,
+        46,
+        48
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I4210146096",
+      "name": "Region Skåne",
+      "ror": "https://ror.org/03sawy356",
+      "city": "Kristianstad",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 56.031288146972656,
+      "lon": 14.152420043945312,
+      "refs": [
+        15,
+        25
+      ],
+      "city_id": "SE:56.031:14.152"
+    },
+    {
+      "id": "https://openalex.org/I4210138343",
+      "name": "Hôpital Purpan",
+      "ror": "https://ror.org/03vcx3f97",
+      "city": "Toulouse",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 43.60426,
+      "lon": 1.44367,
+      "refs": [
+        16,
+        23,
+        29
+      ],
+      "city_id": "FR:43.604:1.444"
+    },
+    {
+      "id": "https://openalex.org/I143397708",
+      "name": "Innsbruck Medical University",
+      "ror": "https://ror.org/03pt86f80",
+      "city": "Innsbruck",
+      "country": "Austria",
+      "country_code": "AT",
+      "lat": 47.26266,
+      "lon": 11.39454,
+      "refs": [
+        16
+      ],
+      "city_id": "AT:47.263:11.395"
+    },
+    {
+      "id": "https://openalex.org/I190249584",
+      "name": "Universität Innsbruck",
+      "ror": "https://ror.org/054pv6659",
+      "city": "Innsbruck",
+      "country": "Austria",
+      "country_code": "AT",
+      "lat": 47.26266,
+      "lon": 11.39454,
+      "refs": [
+        16
+      ],
+      "city_id": "AT:47.263:11.395"
+    },
+    {
+      "id": "https://openalex.org/I865915315",
+      "name": "Vrije Universiteit Amsterdam",
+      "ror": "https://ror.org/008xxew50",
+      "city": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        16,
+        23,
+        27,
+        29,
+        33,
+        37,
+        38,
+        46
+      ],
+      "city_id": "NL:52.374:4.890"
+    },
+    {
+      "id": "https://openalex.org/I34809795",
+      "name": "Medizinische Hochschule Hannover",
+      "ror": "https://ror.org/00f2yqf98",
+      "city": "Hanover",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 52.37052,
+      "lon": 9.73322,
+      "refs": [
+        16
+      ],
+      "city_id": "DE:52.371:9.733"
+    },
+    {
+      "id": "https://openalex.org/I118564535",
+      "name": "University of Bern",
+      "ror": "https://ror.org/02k7v4d05",
+      "city": "Bern",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "lat": 46.94809,
+      "lon": 7.44744,
+      "refs": [
+        16
+      ],
+      "city_id": "CH:46.948:7.447"
+    },
+    {
+      "id": "https://openalex.org/I2801112126",
+      "name": "University Hospital of Bern",
+      "ror": "https://ror.org/01q9sj412",
+      "city": "Bern",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "lat": 46.94809,
+      "lon": 7.44744,
+      "refs": [
+        16
+      ],
+      "city_id": "CH:46.948:7.447"
+    },
+    {
+      "id": "https://openalex.org/I4210130445",
+      "name": "Max Planck Institute for Human Cognitive and Brain Sciences",
+      "ror": "https://ror.org/0387jng26",
+      "city": "Leipzig",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.33573532104492,
+      "lon": 12.388835906982422,
+      "refs": [
+        16,
+        48
+      ],
+      "city_id": "DE:51.336:12.389"
+    },
+    {
+      "id": "https://openalex.org/I4405255059",
+      "name": "University of New Mexico Health Sciences Center",
+      "ror": "https://ror.org/02jvjmd55",
+      "city": "Albuquerque",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.08449,
+      "lon": -106.65114,
+      "refs": [
+        16
+      ],
+      "city_id": "US:35.084:-106.651"
+    },
+    {
+      "id": "https://openalex.org/I2799503643",
+      "name": "Columbia University Irving Medical Center",
+      "ror": "https://ror.org/01esghr10",
+      "city": "New York",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.714271545410156,
+      "lon": -74.00596618652344,
+      "refs": [
+        17,
+        23
+      ],
+      "city_id": "US:40.714:-74.006"
+    },
+    {
+      "id": "https://openalex.org/I138689650",
+      "name": "University of Padua",
+      "ror": "https://ror.org/00240q980",
+      "city": "Padua",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.40797,
+      "lon": 11.88586,
+      "refs": [
+        19
+      ],
+      "city_id": "IT:45.408:11.886"
+    },
+    {
+      "id": "https://openalex.org/I2799829267",
+      "name": "Simula Research Laboratory",
+      "ror": "https://ror.org/00vn06n10",
+      "city": "Oslo",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.91273,
+      "lon": 10.74609,
+      "refs": [
+        20
+      ],
+      "city_id": "NO:59.913:10.746"
+    },
+    {
+      "id": "https://openalex.org/I1316535847",
+      "name": "Beth Israel Deaconess Medical Center",
+      "ror": "https://ror.org/04drvxt59",
+      "city": "Boston",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.339786529541016,
+      "lon": -71.10518646240234,
+      "refs": [
+        21
+      ],
+      "city_id": "US:42.340:-71.105"
+    },
+    {
+      "id": "https://openalex.org/I150468666",
+      "name": "Emory University",
+      "ror": "https://ror.org/03czfpz43",
+      "city": "Atlanta",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 33.749,
+      "lon": -84.38798,
+      "refs": [
+        22
+      ],
+      "city_id": "US:33.749:-84.388"
+    },
+    {
+      "id": "https://openalex.org/I4210133909",
+      "name": "Center for Translational Research in Neuroimaging and Data Science",
+      "ror": "https://ror.org/02qx6zf82",
+      "city": "Atlanta",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 33.7558708190918,
+      "lon": -84.38748931884766,
+      "refs": [
+        22,
+        36
+      ],
+      "city_id": "US:33.756:-84.387"
+    },
+    {
+      "id": "https://openalex.org/I2801952686",
+      "name": "Erasmus MC",
+      "ror": "https://ror.org/018906e22",
+      "city": "Rotterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.9225,
+      "lon": 4.47917,
+      "refs": [
+        23
+      ],
+      "city_id": "NL:51.922:4.479"
+    },
+    {
+      "id": "https://openalex.org/I4210151885",
+      "name": "Linköping University Hospital",
+      "ror": "https://ror.org/05h1aye87",
+      "city": "Linköping",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 58.410858154296875,
+      "lon": 15.621569633483887,
+      "refs": [
+        23
+      ],
+      "city_id": "SE:58.411:15.622"
+    },
+    {
+      "id": "https://openalex.org/I4210108766",
+      "name": "Klinikum Oldenburg",
+      "ror": "https://ror.org/01t0n2c80",
+      "city": "Oldenburg",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 53.14039,
+      "lon": 8.21479,
+      "refs": [
+        23
+      ],
+      "city_id": "DE:53.140:8.215"
+    },
+    {
+      "id": "https://openalex.org/I165524941",
+      "name": "Wellcome Centre for Human Neuroimaging",
+      "ror": "https://ror.org/02704qw51",
+      "city": "London",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.522178649902344,
+      "lon": -0.12220299988985062,
+      "refs": [
+        27
+      ],
+      "city_id": "GB:51.522:-0.122"
+    },
+    {
+      "id": "https://openalex.org/I4210157923",
+      "name": "Senter for Krisepsykologi",
+      "ror": "https://ror.org/04wb8fh44",
+      "city": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.3939094543457,
+      "lon": 5.3219170570373535,
+      "refs": [
+        28,
+        29
+      ],
+      "city_id": "NO:60.394:5.322"
+    },
+    {
+      "id": "https://openalex.org/I108290504",
+      "name": "University of Pisa",
+      "ror": "https://ror.org/03ad39j10",
+      "city": "Pisa",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 43.70853,
+      "lon": 10.4036,
+      "refs": [
+        28,
+        31
+      ],
+      "city_id": "IT:43.709:10.404"
+    },
+    {
+      "id": "https://openalex.org/I4210137168",
+      "name": "Institute of Research and Innovation Parc Tauli",
+      "ror": "https://ror.org/038c0gc18",
+      "city": "Sabadell",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.54328918457031,
+      "lon": 2.10942006111145,
+      "refs": [
+        29,
+        38,
+        40
+      ],
+      "city_id": "ES:41.543:2.109"
+    },
+    {
+      "id": "https://openalex.org/I2800875313",
+      "name": "Mental Health Services",
+      "ror": "https://ror.org/047m0fb88",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.67594,
+      "lon": 12.56553,
+      "refs": [
+        33,
+        34,
+        38
+      ],
+      "city_id": "DK:55.676:12.566"
+    },
+    {
+      "id": "https://openalex.org/I4210145385",
+      "name": "Capital Region of Denmark",
+      "ror": "https://ror.org/049qz7x77",
+      "city": "Hillerød",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.92791,
+      "lon": 12.30081,
+      "refs": [
+        33,
+        38
+      ],
+      "city_id": "DK:55.928:12.301"
+    },
+    {
+      "id": "https://openalex.org/I2801942218",
+      "name": "Hvidovre Hospital",
+      "ror": "https://ror.org/00edrn755",
+      "city": "Hvidovre",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.657188415527344,
+      "lon": 12.473640441894531,
+      "refs": [
+        33,
+        38,
+        46
+      ],
+      "city_id": "DK:55.657:12.474"
+    },
+    {
+      "id": "https://openalex.org/I2802567020",
+      "name": "Copenhagen University Hospital",
+      "ror": "https://ror.org/05bpbnx46",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.67594,
+      "lon": 12.56553,
+      "refs": [
+        33,
+        37,
+        38,
+        45,
+        46
+      ],
+      "city_id": "DK:55.676:12.566"
+    },
+    {
+      "id": "https://openalex.org/I96673099",
+      "name": "Technical University of Denmark",
+      "ror": "https://ror.org/04qtj9h94",
+      "city": "Kongens Lyngby",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.77044,
+      "lon": 12.50378,
+      "refs": [
+        33,
+        38,
+        46
+      ],
+      "city_id": "DK:55.770:12.504"
+    },
+    {
+      "id": "https://openalex.org/I165779595",
+      "name": "The University of Melbourne",
+      "ror": "https://ror.org/01ej9dk98",
+      "city": "Melbourne",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -37.814,
+      "lon": 144.96332,
+      "refs": [
+        33,
+        40
+      ],
+      "city_id": "AU:-37.814:144.963"
+    },
+    {
+      "id": "https://openalex.org/I242743682",
+      "name": "Florey Institute of Neuroscience and Mental Health",
+      "ror": "https://ror.org/03a2tac74",
+      "city": "Melbourne",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -37.814,
+      "lon": 144.96332,
+      "refs": [
+        33,
+        40
+      ],
+      "city_id": "AU:-37.814:144.963"
+    },
+    {
+      "id": "https://openalex.org/I230495080",
+      "name": "University of Limerick",
+      "ror": "https://ror.org/00a0n9e72",
+      "city": "Limerick",
+      "country": "Ireland",
+      "country_code": "IE",
+      "lat": 52.66472,
+      "lon": -8.62306,
+      "refs": [
+        35
+      ],
+      "city_id": "IE:52.665:-8.623"
+    },
+    {
+      "id": "https://openalex.org/I86519309",
+      "name": "The University of Texas at Austin",
+      "ror": "https://ror.org/00hj54h04",
+      "city": "Austin",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 30.26715,
+      "lon": -97.74306,
+      "refs": [
+        36
+      ],
+      "city_id": "US:30.267:-97.743"
+    },
+    {
+      "id": "https://openalex.org/I130701444",
+      "name": "Georgia Institute of Technology",
+      "ror": "https://ror.org/01zkghx44",
+      "city": "Atlanta",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 33.749,
+      "lon": -84.38798,
+      "refs": [
+        36
+      ],
+      "city_id": "US:33.749:-84.388"
+    },
+    {
+      "id": "https://openalex.org/I4405259014",
+      "name": "Donders Centre for Cognitive Neuroimaging",
+      "ror": "https://ror.org/01jdz5g73",
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.8425,
+      "lon": 5.85278,
+      "refs": [
+        37,
+        38,
+        43
+      ],
+      "city_id": "NL:51.843:5.853"
+    },
+    {
+      "id": "https://openalex.org/I40120149",
+      "name": "University of Oxford",
+      "ror": "https://ror.org/052gg0110",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.75222,
+      "lon": -1.25596,
+      "refs": [
+        37
+      ],
+      "city_id": "GB:51.752:-1.256"
+    },
+    {
+      "id": "https://openalex.org/I4210101881",
+      "name": "Wellcome Centre for Integrative Neuroimaging",
+      "ror": "https://ror.org/0172mzb45",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.76520919799805,
+      "lon": -1.2205430269241333,
+      "refs": [
+        37
+      ],
+      "city_id": "GB:51.765:-1.221"
+    },
+    {
+      "id": "https://openalex.org/I139290212",
+      "name": "Hofstra University",
+      "ror": "https://ror.org/03pm18j10",
+      "city": "Hempstead",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.70621,
+      "lon": -73.61874,
+      "refs": [
+        37
+      ],
+      "city_id": "US:40.706:-73.619"
+    },
+    {
+      "id": "https://openalex.org/I4210106353",
+      "name": "Donald & Barbara Zucker School of Medicine at Hofstra/Northwell",
+      "ror": "https://ror.org/01ff5td15",
+      "city": "Hempstead",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.70621109008789,
+      "lon": -73.61873626708984,
+      "refs": [
+        37,
+        43
+      ],
+      "city_id": "US:40.706:-73.619"
+    },
+    {
+      "id": "https://openalex.org/I1316902750",
+      "name": "Cleveland Clinic",
+      "ror": "https://ror.org/03xjacd83",
+      "city": "Cleveland",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 41.4995,
+      "lon": -81.69541,
+      "refs": [
+        37,
+        38,
+        46,
+        48
+      ],
+      "city_id": "US:41.499:-81.695"
+    },
+    {
+      "id": "https://openalex.org/I4210119759",
+      "name": "Essen University Hospital",
+      "ror": "https://ror.org/02na8dn90",
+      "city": "Essen",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.45656967163086,
+      "lon": 7.012279987335205,
+      "refs": [
+        37
+      ],
+      "city_id": "DE:51.457:7.012"
+    },
+    {
+      "id": "https://openalex.org/I62318514",
+      "name": "University of Duisburg-Essen",
+      "ror": "https://ror.org/04mz5ra38",
+      "city": "Essen",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.45657,
+      "lon": 7.01228,
+      "refs": [
+        38,
+        43
+      ],
+      "city_id": "DE:51.457:7.012"
+    },
+    {
+      "id": "https://openalex.org/I4210120479",
+      "name": "Komagino Hospital",
+      "ror": "https://ror.org/02j7h9426",
+      "city": "Tokyo",
+      "country": "Japan",
+      "country_code": "JP",
+      "lat": 35.64071273803711,
+      "lon": 139.26840209960938,
+      "refs": [
+        38,
+        43
+      ],
+      "city_id": "JP:35.641:139.268"
+    },
+    {
+      "id": "https://openalex.org/I4210115578",
+      "name": "Corporació Sanitària Parc Taulí",
+      "ror": "https://ror.org/02pg81z63",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        38,
+        40
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I114027177",
+      "name": "University of North Carolina at Chapel Hill",
+      "ror": "https://ror.org/0130frc33",
+      "city": "Chapel Hill",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.9132,
+      "lon": -79.05584,
+      "refs": [
+        40
+      ],
+      "city_id": "US:35.913:-79.056"
+    },
+    {
+      "id": "https://openalex.org/I205274468",
+      "name": "Trinity College Dublin",
+      "ror": "https://ror.org/02tyrky19",
+      "city": "Dublin",
+      "country": "Ireland",
+      "country_code": "IE",
+      "lat": 53.33306121826172,
+      "lon": -6.248889923095703,
+      "refs": [
+        40
+      ],
+      "city_id": "IE:53.333:-6.249"
+    },
+    {
+      "id": "https://openalex.org/I5681781",
+      "name": "The University of Adelaide",
+      "ror": "https://ror.org/00892tw58",
+      "city": "Adelaide",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -34.92866,
+      "lon": 138.59863,
+      "refs": [
+        40
+      ],
+      "city_id": "AU:-34.929:138.599"
+    },
+    {
+      "id": "https://openalex.org/I168635309",
+      "name": "University of Calgary",
+      "ror": "https://ror.org/03yjb2x39",
+      "city": "Calgary",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 51.05011,
+      "lon": -114.08529,
+      "refs": [
+        40
+      ],
+      "city_id": "CA:51.050:-114.085"
+    },
+    {
+      "id": "https://openalex.org/I7882870",
+      "name": "University of Glasgow",
+      "ror": "https://ror.org/00vtgdb53",
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 55.86515,
+      "lon": -4.25763,
+      "refs": [
+        40
+      ],
+      "city_id": "GB:55.865:-4.258"
+    },
+    {
+      "id": "https://openalex.org/I4210115097",
+      "name": "Hospital Clínic de Barcelona",
+      "ror": "https://ror.org/02a2kzf50",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        40,
+        45
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I4210160192",
+      "name": "Consorci Institut D'Investigacions Biomediques August Pi I Sunyer",
+      "ror": "https://ror.org/054vayn55",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        40,
+        45
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I79576946",
+      "name": "University of Pennsylvania",
+      "ror": "https://ror.org/00b30xv10",
+      "city": "Philadelphia",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 39.95238,
+      "lon": -75.16362,
+      "refs": [
+        40
+      ],
+      "city_id": "US:39.952:-75.164"
+    },
+    {
+      "id": "https://openalex.org/I16667517",
+      "name": "Black Dog Institute",
+      "ror": "https://ror.org/04rfr1008",
+      "city": "Sydney",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -33.86785125732422,
+      "lon": 151.2073211669922,
+      "refs": [
+        40
+      ],
+      "city_id": "AU:-33.868:151.207"
+    },
+    {
+      "id": "https://openalex.org/I31746571",
+      "name": "UNSW Sydney",
+      "ror": "https://ror.org/03r8z3t63",
+      "city": "Sydney",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -33.86785,
+      "lon": 151.20732,
+      "refs": [
+        40
+      ],
+      "city_id": "AU:-33.868:151.207"
+    },
+    {
+      "id": "https://openalex.org/I141945490",
+      "name": "University of British Columbia",
+      "ror": "https://ror.org/03rmrcq20",
+      "city": "Vancouver",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 49.24966,
+      "lon": -123.11934,
+      "refs": [
+        40
+      ],
+      "city_id": "CA:49.250:-123.119"
+    },
+    {
+      "id": "https://openalex.org/I79940851",
+      "name": "University of Brescia",
+      "ror": "https://ror.org/02q2d2610",
+      "city": "Brescia",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.53558,
+      "lon": 10.21472,
+      "refs": [
+        40
+      ],
+      "city_id": "IT:45.536:10.215"
+    },
+    {
+      "id": "https://openalex.org/I223532165",
+      "name": "University of Utah",
+      "ror": "https://ror.org/03r0ha626",
+      "city": "Salt Lake City",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.76078,
+      "lon": -111.89105,
+      "refs": [
+        40
+      ],
+      "city_id": "US:40.761:-111.891"
+    },
+    {
+      "id": "https://openalex.org/I204722609",
+      "name": "Queen's University",
+      "ror": "https://ror.org/02y72wh86",
+      "city": "Kingston",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 44.22976,
+      "lon": -76.48098,
+      "refs": [
+        40
+      ],
+      "city_id": "CA:44.230:-76.481"
+    },
+    {
+      "id": "https://openalex.org/I4405268446",
+      "name": "Providence Care Hospital",
+      "ror": "https://ror.org/00zq1aj91",
+      "city": "Kingston",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 44.22976,
+      "lon": -76.48098,
+      "refs": [
+        40
+      ],
+      "city_id": "CA:44.230:-76.481"
+    },
+    {
+      "id": "https://openalex.org/I1313558178",
+      "name": "Pine Rest Christian Mental Health Services",
+      "ror": "https://ror.org/00ded8656",
+      "city": "Grand Rapids",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.96336,
+      "lon": -85.66809,
+      "refs": [
+        40
+      ],
+      "city_id": "US:42.963:-85.668"
+    },
+    {
+      "id": "https://openalex.org/I79510175",
+      "name": "Cardiff University",
+      "ror": "https://ror.org/03kk7td41",
+      "city": "Cardiff",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.48,
+      "lon": -3.18,
+      "refs": [
+        40
+      ],
+      "city_id": "GB:51.480:-3.180"
+    },
+    {
+      "id": "https://openalex.org/I120230055",
+      "name": "Poznan University of Medical Sciences",
+      "ror": "https://ror.org/02zbb2597",
+      "city": "Poznan",
+      "country": "Poland",
+      "country_code": "PL",
+      "lat": 52.40692138671875,
+      "lon": 16.929929733276367,
+      "refs": [
+        40
+      ],
+      "city_id": "PL:52.407:16.930"
+    },
+    {
+      "id": "https://openalex.org/I808010",
+      "name": "University of Worcester",
+      "ror": "https://ror.org/00v6s9648",
+      "city": "Worcester",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 52.18935,
+      "lon": -2.22001,
+      "refs": [
+        40
+      ],
+      "city_id": "GB:52.189:-2.220"
+    },
+    {
+      "id": "https://openalex.org/I145311948",
+      "name": "Johns Hopkins University",
+      "ror": "https://ror.org/00za53h95",
+      "city": "Baltimore",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 39.29038,
+      "lon": -76.61219,
+      "refs": [
+        40
+      ],
+      "city_id": "US:39.290:-76.612"
+    },
+    {
+      "id": "https://openalex.org/I881427289",
+      "name": "University of Gothenburg",
+      "ror": "https://ror.org/01tm6cn81",
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 57.70716,
+      "lon": 11.96679,
+      "refs": [
+        40,
+        45
+      ],
+      "city_id": "SE:57.707:11.967"
+    },
+    {
+      "id": "https://openalex.org/I185261750",
+      "name": "University of Toronto",
+      "ror": "https://ror.org/03dbr7087",
+      "city": "Toronto",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 43.70643,
+      "lon": -79.39864,
+      "refs": [
+        40
+      ],
+      "city_id": "CA:43.706:-79.399"
+    },
+    {
+      "id": "https://openalex.org/I4210120278",
+      "name": "SA Health",
+      "ror": "https://ror.org/01tg7a346",
+      "city": "Adelaide",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -34.92866,
+      "lon": 138.59863,
+      "refs": [
+        40
+      ],
+      "city_id": "AU:-34.929:138.599"
+    },
+    {
+      "id": "https://openalex.org/I161103922",
+      "name": "Philipps University of Marburg",
+      "ror": "https://ror.org/01rdrb571",
+      "city": "Marburg",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.80904006958008,
+      "lon": 8.770689964294434,
+      "refs": [
+        40,
+        48
+      ],
+      "city_id": "DE:50.809:8.771"
+    },
+    {
+      "id": "https://openalex.org/I4210114614",
+      "name": "Centro San Giovanni di Dio Fatebenefratelli",
+      "ror": "https://ror.org/02davtb12",
+      "city": "Brescia",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.53558,
+      "lon": 10.21472,
+      "refs": [
+        40,
+        45
+      ],
+      "city_id": "IT:45.536:10.215"
+    },
+    {
+      "id": "https://openalex.org/I2799853436",
+      "name": "Johns Hopkins Medicine",
+      "ror": "https://ror.org/037zgn354",
+      "city": "Baltimore",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 39.29038,
+      "lon": -76.61219,
+      "refs": [
+        40
+      ],
+      "city_id": "US:39.290:-76.612"
+    },
+    {
+      "id": "https://openalex.org/I4210142572",
+      "name": "Bevital (Norway)",
+      "ror": "https://ror.org/03whyax55",
+      "city": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.3748664855957,
+      "lon": 5.355280876159668,
+      "refs": [
+        42
+      ],
+      "city_id": "NO:60.375:5.355"
+    },
+    {
+      "id": "https://openalex.org/I125687163",
+      "name": "City College of New York",
+      "ror": "https://ror.org/00wmhkr98",
+      "city": "New York",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.714271545410156,
+      "lon": -74.00596618652344,
+      "refs": [
+        43
+      ],
+      "city_id": "US:40.714:-74.006"
+    },
+    {
+      "id": "https://openalex.org/I174216632",
+      "name": "City University of New York",
+      "ror": "https://ror.org/00453a208",
+      "city": "New York",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.71427,
+      "lon": -74.00597,
+      "refs": [
+        43
+      ],
+      "city_id": "US:40.714:-74.006"
+    },
+    {
+      "id": "https://openalex.org/I4210130874",
+      "name": "Hospital Del Mar",
+      "ror": "https://ror.org/03a8gac78",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        43
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I4387154366",
+      "name": "Université Paris Diderot",
+      "ror": "https://ror.org/02n7qrg46",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85340881347656,
+      "lon": 2.34879994392395,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210097159",
+      "name": "Assistance Publique – Hôpitaux de Paris",
+      "ror": "https://ror.org/00pg5jh14",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210144610",
+      "name": "Hôpital Saint-Louis",
+      "ror": "https://ror.org/049am9t04",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4387154308",
+      "name": "Centre de Recherche Épidémiologie et Statistique",
+      "ror": "https://ror.org/00t9egj41",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210119095",
+      "name": "Hôpital Lariboisière",
+      "ror": "https://ror.org/02mqtne57",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4387154652",
+      "name": "Optimisation Thérapeutique en Neuropsychopharmacologie",
+      "ror": "https://ror.org/05wzabs02",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210162051",
+      "name": "University Hospital Carl Gustav Carus",
+      "ror": "https://ror.org/04za5zm41",
+      "city": "Dresden",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.05089,
+      "lon": 13.73832,
+      "refs": [
+        45
+      ],
+      "city_id": "DE:51.051:13.738"
+    },
+    {
+      "id": "https://openalex.org/I4210087978",
+      "name": "Centre Hospitalier Universitaire de Besançon",
+      "ror": "https://ror.org/0084te143",
+      "city": "Besançon",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 47.24878,
+      "lon": 6.01815,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:47.249:6.018"
+    },
+    {
+      "id": "https://openalex.org/I4210118524",
+      "name": "Université Bourgogne Franche-Comté",
+      "ror": "https://ror.org/02dn7x778",
+      "city": "Besançon",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 47.24878,
+      "lon": 6.01815,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:47.249:6.018"
+    },
+    {
+      "id": "https://openalex.org/I2738703131",
+      "name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+      "ror": "https://ror.org/00jjx8s55",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I277688954",
+      "name": "Université Paris-Saclay",
+      "ror": "https://ror.org/03xjwb503",
+      "city": "Gif-sur-Yvette",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.68333,
+      "lon": 2.13333,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.683:2.133"
+    },
+    {
+      "id": "https://openalex.org/I4210128565",
+      "name": "CEA Paris-Saclay",
+      "ror": "https://ror.org/03n15ch10",
+      "city": "Gif-sur-Yvette",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.68333,
+      "lon": 2.13333,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.683:2.133"
+    },
+    {
+      "id": "https://openalex.org/I189158943",
+      "name": "University of Milan",
+      "ror": "https://ror.org/00wjc7c48",
+      "city": "Milan",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.46427,
+      "lon": 9.18951,
+      "refs": [
+        45
+      ],
+      "city_id": "IT:45.464:9.190"
+    },
+    {
+      "id": "https://openalex.org/I2803066834",
+      "name": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+      "ror": "https://ror.org/016zn0y21",
+      "city": "Milan",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.46427,
+      "lon": 9.18951,
+      "refs": [
+        45
+      ],
+      "city_id": "IT:45.464:9.190"
+    },
+    {
+      "id": "https://openalex.org/I39804081",
+      "name": "Sorbonne Université",
+      "ror": "https://ror.org/02en5vm52",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210121705",
+      "name": "Pitié-Salpêtrière Hospital",
+      "ror": "https://ror.org/02mh9a093",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210152724",
+      "name": "Institut du Cerveau",
+      "ror": "https://ror.org/050gn5214",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4389425361",
+      "name": "Centre d'Acquisition et de Traitement des Images",
+      "ror": "https://ror.org/01zprwd36",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210136145",
+      "name": "Municipal Institute for Medical Research",
+      "ror": "https://ror.org/039evc422",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        45
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I4210156109",
+      "name": "Hospital del Mar Research Institute",
+      "ror": "https://ror.org/042nkmz09",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        45
+      ],
+      "city_id": "ES:41.389:2.159"
+    },
+    {
+      "id": "https://openalex.org/I4210087884",
+      "name": "Hôpital Louis-Mourier",
+      "ror": "https://ror.org/004nnf780",
+      "city": "Colombes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.91882,
+      "lon": 2.25404,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.919:2.254"
+    },
+    {
+      "id": "https://openalex.org/I4210130152",
+      "name": "Institut de Psychiatrie et Neurosciences de Paris",
+      "ror": "https://ror.org/02g40zn06",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4210150564",
+      "name": "Centre for Psychiatry and Neuroscience",
+      "ror": "https://ror.org/04sq8xk75",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I4405258074",
+      "name": "Institut für Psychiatrische Phänomik und Genomik",
+      "ror": "https://ror.org/0029hqx58",
+      "city": "Munich",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 48.13743,
+      "lon": 11.57549,
+      "refs": [
+        45
+      ],
+      "city_id": "DE:48.137:11.575"
+    },
+    {
+      "id": "https://openalex.org/I8204097",
+      "name": "Ludwig-Maximilians-Universität München",
+      "ror": "https://ror.org/05591te55",
+      "city": "Munich",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 48.13743,
+      "lon": 11.57549,
+      "refs": [
+        45
+      ],
+      "city_id": "DE:48.137:11.575"
+    },
+    {
+      "id": "https://openalex.org/I197323543",
+      "name": "Johannes Gutenberg University Mainz",
+      "ror": "https://ror.org/023b0x485",
+      "city": "Mainz",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 49.98185,
+      "lon": 8.28008,
+      "refs": [
+        45
+      ],
+      "city_id": "DE:49.982:8.280"
+    },
+    {
+      "id": "https://openalex.org/I4210111631",
+      "name": "Hôpital Fernand-Widal",
+      "ror": "https://ror.org/01zkyzz15",
+      "city": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        45
+      ],
+      "city_id": "FR:48.853:2.349"
+    },
+    {
+      "id": "https://openalex.org/I2802229882",
+      "name": "Centre Hospitalier Universitaire Vaudois",
+      "ror": "https://ror.org/05a353079",
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "lat": 46.516,
+      "lon": 6.63282,
+      "refs": [
+        48
+      ],
+      "city_id": "CH:46.516:6.633"
+    },
+    {
+      "id": "https://openalex.org/I97565354",
+      "name": "University of Lausanne",
+      "ror": "https://ror.org/019whta54",
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "lat": 46.516,
+      "lon": 6.63282,
+      "refs": [
+        48
+      ],
+      "city_id": "CH:46.516:6.633"
+    },
+    {
+      "id": "https://openalex.org/I27837315",
+      "name": "University of Michigan",
+      "ror": "https://ror.org/00jmfr291",
+      "city": "Ann Arbor",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.27756,
+      "lon": -83.74088,
+      "refs": [
+        58
+      ],
+      "city_id": "US:42.278:-83.741"
+    }
+  ],
+  "cities": [
+    {
+      "id": "NO:59.913:10.746",
+      "name": "Oslo",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.91273,
+      "lon": 10.74609,
+      "refs": [
+        1,
+        2,
+        11,
+        20,
+        21,
+        39,
+        45,
+        50,
+        54,
+        56,
+        58,
+        59
+      ],
+      "institutions": [
+        "https://openalex.org/I1333353642",
+        "https://openalex.org/I4210129856",
+        "https://openalex.org/I1281400175",
+        "https://openalex.org/I184942183",
+        "https://openalex.org/I2799829267"
+      ],
+      "xy": [
+        622.5401296842002,
+        88.88160944358697
+      ]
+    },
+    {
+      "id": "NO:60.393:5.324",
+      "name": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.39299,
+      "lon": 5.32415,
+      "refs": [
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        56,
+        59
+      ],
+      "institutions": [
+        "https://openalex.org/I2800740805",
+        "https://openalex.org/I4432739",
+        "https://openalex.org/I179863766"
+      ],
+      "xy": [
+        611.1141691213124,
+        87.69074981060038
+      ]
+    },
+    {
+      "id": "GB:52.954:-1.150",
+      "name": "Nottingham",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 52.9536,
+      "lon": -1.15047,
+      "refs": [
+        1
+      ],
+      "institutions": [
+        "https://openalex.org/I142263535"
+      ],
+      "xy": [
+        597.4248832782025,
+        107.3555357329835
+      ]
+    },
+    {
+      "id": "NO:69.649:18.955",
+      "name": "Tromsø",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 69.6489,
+      "lon": 18.95508,
+      "refs": [
+        1,
+        2,
+        11,
+        18,
+        21,
+        54
+      ],
+      "institutions": [
+        "https://openalex.org/I78037679",
+        "https://openalex.org/I1298853749"
+      ],
+      "xy": [
+        635.916292781326,
+        67.28313976584982
+      ]
+    },
+    {
+      "id": "DE:52.524:13.411",
+      "name": "Berlin",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 52.52437,
+      "lon": 13.41053,
+      "refs": [
+        3,
+        7,
+        13,
+        16
+      ],
+      "institutions": [
+        "https://openalex.org/I4405258522",
+        "https://openalex.org/I7877124"
+      ],
+      "xy": [
+        630.1287692310948,
+        108.56371811607744
+      ]
+    },
+    {
+      "id": "RS:44.804:20.465",
+      "name": "Belgrade",
+      "country": "Serbia",
+      "country_code": "RS",
+      "lat": 44.80401,
+      "lon": 20.46513,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4068193"
+      ],
+      "xy": [
+        648.860350573009,
+        131.46387461425203
+      ]
+    },
+    {
+      "id": "None:44.804:20.465",
+      "name": "Belgrade",
+      "country": "Serbia",
+      "country_code": null,
+      "lat": 44.80400848388672,
+      "lon": 20.465129852294922,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4400008901"
+      ],
+      "xy": [
+        648.8603507493116,
+        131.46387931160598
+      ]
+    },
+    {
+      "id": "FR:45.766:4.880",
+      "name": "Villeurbanne",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.76601,
+      "lon": 4.8795,
+      "refs": [
+        3,
+        56
+      ],
+      "institutions": [
+        "https://openalex.org/I100532134"
+      ],
+      "xy": [
+        611.569014917783,
+        128.4980820115388
+      ]
+    },
+    {
+      "id": "FR:48.853:2.349",
+      "name": "Paris",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "refs": [
+        3,
+        7,
+        13,
+        16,
+        23,
+        29,
+        45,
+        56
+      ],
+      "institutions": [
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I154526488",
+        "https://openalex.org/I4387154366",
+        "https://openalex.org/I4210097159",
+        "https://openalex.org/I4210144610",
+        "https://openalex.org/I4387154308",
+        "https://openalex.org/I4210119095",
+        "https://openalex.org/I4387154652",
+        "https://openalex.org/I2738703131",
+        "https://openalex.org/I39804081",
+        "https://openalex.org/I4210121705",
+        "https://openalex.org/I4210152724",
+        "https://openalex.org/I4389425361",
+        "https://openalex.org/I4210130152",
+        "https://openalex.org/I4210150564",
+        "https://openalex.org/I4210111631"
+      ],
+      "xy": [
+        605.4394648504922,
+        119.18765510954321
+      ]
+    },
+    {
+      "id": "FR:45.739:4.913",
+      "name": "Bron",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.73865,
+      "lon": 4.91303,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4210095118"
+      ],
+      "xy": [
+        611.6508454595086,
+        128.58201962709686
+      ]
+    },
+    {
+      "id": "FR:48.821:2.131",
+      "name": "Le Chesnay-Rocquencourt",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.8205,
+      "lon": 2.1311,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I1326498283"
+      ],
+      "xy": [
+        604.9365891466316,
+        119.28515855090848
+      ]
+    },
+    {
+      "id": "FR:48.111:-1.674",
+      "name": "Rennes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.11109,
+      "lon": -1.67431,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I2802519937",
+        "https://openalex.org/I4387152452",
+        "https://openalex.org/I56067802"
+      ],
+      "xy": [
+        596.0999218684252,
+        121.39628441582818
+      ]
+    },
+    {
+      "id": "FR:48.112:-1.674",
+      "name": "Rennes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.11198,
+      "lon": -1.67429,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4210116274",
+        "https://openalex.org/I4210149957"
+      ],
+      "xy": [
+        596.0999954194913,
+        121.39362477872169
+      ]
+    },
+    {
+      "id": "NL:52.091:5.122",
+      "name": "Utrecht",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.09083,
+      "lon": 5.12222,
+      "refs": [
+        3,
+        7,
+        13,
+        16,
+        17,
+        23,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I193662353",
+        "https://openalex.org/I3018483916"
+      ],
+      "xy": [
+        611.5506966995986,
+        109.79150327294022
+      ]
+    },
+    {
+      "id": "IT:46.068:11.121",
+      "name": "Trento",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 46.06787109375,
+      "lon": 11.12108039855957,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I193223587"
+      ],
+      "xy": [
+        626.3090070527517,
+        127.57362468466124
+      ]
+    },
+    {
+      "id": "DE:50.116:8.684",
+      "name": "Frankfurt am Main",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.11552,
+      "lon": 8.68417,
+      "refs": [
+        3,
+        16,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I114090438",
+        "https://openalex.org/I4210132578"
+      ],
+      "xy": [
+        619.9083787726208,
+        115.47793349013673
+      ]
+    },
+    {
+      "id": "GB:54.973:-1.614",
+      "name": "Newcastle upon Tyne",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 54.97328186035156,
+      "lon": -1.6139600276947021,
+      "refs": [
+        3,
+        40,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I240202130",
+        "https://openalex.org/I4210133722",
+        "https://openalex.org/I84884186"
+      ],
+      "xy": [
+        596.4517256036545,
+        101.77235083195109
+      ]
+    },
+    {
+      "id": "PL:52.230:21.012",
+      "name": "Warsaw",
+      "country": "Poland",
+      "country_code": "PL",
+      "lat": 52.22977,
+      "lon": 21.01178,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4210153937"
+      ],
+      "xy": [
+        647.3257044106654,
+        109.39721366829895
+      ]
+    },
+    {
+      "id": "SE:59.274:15.207",
+      "name": "Örebro",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 59.27412033081055,
+      "lon": 15.206600189208984,
+      "refs": [
+        3,
+        4,
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I26437253"
+      ],
+      "xy": [
+        632.0980641590078,
+        90.4830602342351
+      ]
+    },
+    {
+      "id": "GB:51.509:-0.126",
+      "name": "London",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.50853,
+      "lon": -0.12574,
+      "refs": [
+        3,
+        40,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I183935753"
+      ],
+      "xy": [
+        599.7150509146428,
+        111.45221964926793
+      ]
+    },
+    {
+      "id": "DE:51.051:13.738",
+      "name": "Dresden",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.05089,
+      "lon": 13.73832,
+      "refs": [
+        3,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I78650965",
+        "https://openalex.org/I4210162051"
+      ],
+      "xy": [
+        631.2530552872405,
+        112.76663495260391
+      ]
+    },
+    {
+      "id": "CZ:50.088:14.421",
+      "name": "Prague",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "lat": 50.08804,
+      "lon": 14.42076,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I21250087"
+      ],
+      "xy": [
+        633.0668634997248,
+        115.5580837831362
+      ]
+    },
+    {
+      "id": "CZ:50.176:14.411",
+      "name": "Klecany",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "lat": 50.17599105834961,
+      "lon": 14.411479949951172,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4210167247"
+      ],
+      "xy": [
+        633.021886419469,
+        115.30165769191396
+      ]
+    },
+    {
+      "id": "NL:51.364:5.594",
+      "name": "Heeze",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "lat": 51.36370086669922,
+      "lon": 5.593789100646973,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4210132398"
+      ],
+      "xy": [
+        612.6919609188669,
+        111.86732006156728
+      ]
+    },
+    {
+      "id": "NL:51.441:5.478",
+      "name": "Eindhoven",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.44083,
+      "lon": 5.47778,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I83019370"
+      ],
+      "xy": [
+        612.4206926072568,
+        111.64615634697967
+      ]
+    },
+    {
+      "id": "FR:49.186:-0.359",
+      "name": "Caen",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 49.18585,
+      "lon": -0.35912,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I4210114068"
+      ],
+      "xy": [
+        599.1705255658067,
+        118.20490185206648
+      ]
+    },
+    {
+      "id": "FR:45.566:5.921",
+      "name": "Chambéry",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.56628,
+      "lon": 5.92079,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I70900168"
+      ],
+      "xy": [
+        614.0583440900481,
+        129.11139139822976
+      ]
+    },
+    {
+      "id": "FR:45.179:5.763",
+      "name": "Saint-Martin-d'Hères",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 45.1787,
+      "lon": 5.76281,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I899635006"
+      ],
+      "xy": [
+        613.7217250825757,
+        130.3052030766515
+      ]
+    },
+    {
+      "id": "PT:40.207:-8.420",
+      "name": "Coimbra",
+      "country": "Portugal",
+      "country_code": "PT",
+      "lat": 40.20686,
+      "lon": -8.41996,
+      "refs": [
+        3
+      ],
+      "institutions": [
+        "https://openalex.org/I76903346"
+      ],
+      "xy": [
+        579.2671865345775,
+        146.02559682452494
+      ]
+    },
+    {
+      "id": "DE:51.962:7.626",
+      "name": "Münster",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.96236,
+      "lon": 7.62571,
+      "refs": [
+        3,
+        7,
+        11,
+        13,
+        16,
+        21,
+        23,
+        33,
+        34,
+        37,
+        38,
+        40,
+        41,
+        43,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I22465464",
+        "https://openalex.org/I4210103666"
+      ],
+      "xy": [
+        617.2149456835647,
+        110.15675795572719
+      ]
+    },
+    {
+      "id": "NO:58.970:5.733",
+      "name": "Stavanger",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 58.97005,
+      "lon": 5.73332,
+      "refs": [
+        4
+      ],
+      "institutions": [
+        "https://openalex.org/I2800132241"
+      ],
+      "xy": [
+        612.1380239330483,
+        91.25267188694278
+      ]
+    },
+    {
+      "id": "NL:51.980:5.911",
+      "name": "Arnhem",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.97999954223633,
+      "lon": 5.911109924316406,
+      "refs": [
+        5,
+        7,
+        13,
+        14,
+        16,
+        17,
+        22,
+        23,
+        27,
+        30
+      ],
+      "institutions": [
+        "https://openalex.org/I4210152306"
+      ],
+      "xy": [
+        613.3422542165471,
+        110.10656830596292
+      ]
+    },
+    {
+      "id": "NL:52.218:6.896",
+      "name": "Enschede",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.21833,
+      "lon": 6.89583,
+      "refs": [
+        5,
+        17,
+        22,
+        30
+      ],
+      "institutions": [
+        "https://openalex.org/I94624287"
+      ],
+      "xy": [
+        615.5332850314264,
+        109.42964973716482
+      ]
+    },
+    {
+      "id": "NL:52.374:4.890",
+      "name": "Amsterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.37403,
+      "lon": 4.88969,
+      "refs": [
+        5,
+        7,
+        13,
+        14,
+        16,
+        17,
+        22,
+        23,
+        27,
+        29,
+        30,
+        33,
+        37,
+        38,
+        43,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I2802928900",
+        "https://openalex.org/I4210108594",
+        "https://openalex.org/I887064364",
+        "https://openalex.org/I4210151833",
+        "https://openalex.org/I911458345",
+        "https://openalex.org/I4210124285",
+        "https://openalex.org/I4210139202",
+        "https://openalex.org/I865915315"
+      ],
+      "xy": [
+        610.9996384785645,
+        108.98863554427504
+      ]
+    },
+    {
+      "id": "NL:52.077:4.299",
+      "name": "The Hague",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "lat": 52.0766716003418,
+      "lon": 4.298610210418701,
+      "refs": [
+        5
+      ],
+      "institutions": [
+        "https://openalex.org/I4210085896"
+      ],
+      "xy": [
+        609.6946130833378,
+        109.83172534060947
+      ]
+    },
+    {
+      "id": "US:40.798:-73.700",
+      "name": "Manhasset",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.79787826538086,
+      "lon": -73.69956970214844,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        23,
+        27,
+        30,
+        33,
+        37,
+        38,
+        43,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I1327576362"
+      ],
+      "xy": [
+        419.20612778659773,
+        144.1192994903537
+      ]
+    },
+    {
+      "id": "US:40.753:-73.711",
+      "name": "New York",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.75330352783203,
+      "lon": -73.71090698242188,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        33,
+        37,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I4210166545"
+      ],
+      "xy": [
+        419.1267431107276,
+        144.26273575127215
+      ]
+    },
+    {
+      "id": "BE:50.880:4.701",
+      "name": "Leuven",
+      "country": "Belgium",
+      "country_code": "BE",
+      "lat": 50.87959,
+      "lon": 4.70093,
+      "refs": [
+        7,
+        10,
+        12,
+        13,
+        16,
+        17,
+        23,
+        27,
+        29,
+        33,
+        37,
+        38,
+        43,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I99464096"
+      ],
+      "xy": [
+        610.7093072952849,
+        113.26069960021215
+      ]
+    },
+    {
+      "id": "US:42.358:-71.060",
+      "name": "Boston",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.35843,
+      "lon": -71.05977,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        23
+      ],
+      "institutions": [
+        "https://openalex.org/I1283280774",
+        "https://openalex.org/I4210087915"
+      ],
+      "xy": [
+        427.4528920064513,
+        139.13309811141153
+      ]
+    },
+    {
+      "id": "US:42.375:-71.106",
+      "name": "Cambridge",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.3751,
+      "lon": -71.10561,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        21,
+        23
+      ],
+      "institutions": [
+        "https://openalex.org/I136199984"
+      ],
+      "xy": [
+        427.3608312828217,
+        139.08021363088204
+      ]
+    },
+    {
+      "id": "ES:41.491:2.141",
+      "name": "Cerdanyola del Vallès",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.49109,
+      "lon": 2.14079,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I123044942"
+      ],
+      "xy": [
+        605.2281328314941,
+        141.89580167425245
+      ]
+    },
+    {
+      "id": "ES:40.416:-3.703",
+      "name": "Madrid",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 40.4165,
+      "lon": -3.70256,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I2801357902"
+      ],
+      "xy": [
+        590.8950940360837,
+        145.34831171592876
+      ]
+    },
+    {
+      "id": "ES:41.389:2.159",
+      "name": "Barcelona",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.38879,
+      "lon": 2.15899,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        40,
+        43,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I2801795740",
+        "https://openalex.org/I4387155026",
+        "https://openalex.org/I2802050225",
+        "https://openalex.org/I4210087039",
+        "https://openalex.org/I71999127",
+        "https://openalex.org/I4210115578",
+        "https://openalex.org/I4210115097",
+        "https://openalex.org/I4210160192",
+        "https://openalex.org/I4210130874",
+        "https://openalex.org/I4210136145",
+        "https://openalex.org/I4210156109"
+      ],
+      "xy": [
+        605.2760970061021,
+        142.2230781662158
+      ]
+    },
+    {
+      "id": "ES:40.475:-3.690",
+      "name": "Madrid",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 40.47548294067383,
+      "lon": -3.6899960041046143,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29,
+        38,
+        40,
+        43,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I4210090703"
+      ],
+      "xy": [
+        590.9293815538124,
+        145.15797296989132
+      ]
+    },
+    {
+      "id": "US:34.052:-118.244",
+      "name": "Los Angeles",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 34.05223,
+      "lon": -118.24368,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        23,
+        27,
+        33,
+        34,
+        37,
+        38,
+        41,
+        43,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I161318765"
+      ],
+      "xy": [
+        298.35149940348157,
+        166.41204082524519
+      ]
+    },
+    {
+      "id": "DE:53.140:8.215",
+      "name": "Oldenburg",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 53.14039,
+      "lon": 8.21479,
+      "refs": [
+        7,
+        8,
+        13,
+        16,
+        23
+      ],
+      "institutions": [
+        "https://openalex.org/I129877168",
+        "https://openalex.org/I4210108766"
+      ],
+      "xy": [
+        618.3573937893146,
+        106.8320884003329
+      ]
+    },
+    {
+      "id": "DK:55.676:12.566",
+      "name": "Copenhagen",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.67594,
+      "lon": 12.56553,
+      "refs": [
+        7,
+        13,
+        17,
+        23,
+        29,
+        33,
+        34,
+        37,
+        38,
+        45,
+        46
+      ],
+      "institutions": [
+        "https://openalex.org/I124055696",
+        "https://openalex.org/I2802709434",
+        "https://openalex.org/I2800875313",
+        "https://openalex.org/I2802567020"
+      ],
+      "xy": [
+        627.4482651722803,
+        99.87057355300993
+      ]
+    },
+    {
+      "id": "DE:50.734:7.095",
+      "name": "Bonn",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.73438,
+      "lon": 7.09549,
+      "refs": [
+        7,
+        8,
+        13,
+        16,
+        23,
+        39
+      ],
+      "institutions": [
+        "https://openalex.org/I135140700",
+        "https://openalex.org/I2799391451"
+      ],
+      "xy": [
+        616.1838771559022,
+        113.6803887532343
+      ]
+    },
+    {
+      "id": "JP:35.690:139.692",
+      "name": "Tokyo",
+      "country": "Japan",
+      "country_code": "JP",
+      "lat": 35.6895,
+      "lon": 139.69171,
+      "refs": [
+        7,
+        10,
+        12,
+        13,
+        16,
+        23,
+        29,
+        33,
+        38,
+        40,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I203951103"
+      ],
+      "xy": [
+        953.2506695023825,
+        160.89872758104548
+      ]
+    },
+    {
+      "id": "SE:58.411:15.622",
+      "name": "Linköping",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 58.41086,
+      "lon": 15.62157,
+      "refs": [
+        7,
+        16,
+        17,
+        23,
+        29,
+        33,
+        38,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I102134673",
+        "https://openalex.org/I4210151885"
+      ],
+      "xy": [
+        633.2530152978957,
+        92.67975014729197
+      ]
+    },
+    {
+      "id": "DE:50.929:11.590",
+      "name": "Jena",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.92878,
+      "lon": 11.5899,
+      "refs": [
+        7
+      ],
+      "institutions": [
+        "https://openalex.org/I76198965"
+      ],
+      "xy": [
+        626.3924592286465,
+        113.11871108303492
+      ]
+    },
+    {
+      "id": "DE:51.482:11.979",
+      "name": "Halle",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.48158,
+      "lon": 11.97947,
+      "refs": [
+        7,
+        13,
+        23,
+        34
+      ],
+      "institutions": [
+        "https://openalex.org/I68956291"
+      ],
+      "xy": [
+        627.1537586079053,
+        111.52940067630686
+      ]
+    },
+    {
+      "id": "NL:52.155:5.388",
+      "name": "Amersfoort",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 52.155,
+      "lon": 5.3875,
+      "refs": [
+        7,
+        14,
+        16,
+        17,
+        23,
+        29
+      ],
+      "institutions": [
+        "https://openalex.org/I4210102758"
+      ],
+      "xy": [
+        612.142252291609,
+        109.60930425246642
+      ]
+    },
+    {
+      "id": "DE:49.408:8.691",
+      "name": "Heidelberg",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 49.40768,
+      "lon": 8.69079,
+      "refs": [
+        7,
+        9,
+        13,
+        16
+      ],
+      "institutions": [
+        "https://openalex.org/I223822909"
+      ],
+      "xy": [
+        620.0379067173583,
+        117.5513485465232
+      ]
+    },
+    {
+      "id": "DE:49.489:8.467",
+      "name": "Mannheim",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 49.48910140991211,
+      "lon": 8.466939926147461,
+      "refs": [
+        7,
+        9,
+        13,
+        16
+      ],
+      "institutions": [
+        "https://openalex.org/I4210105615"
+      ],
+      "xy": [
+        619.5090355790287,
+        117.31191361367897
+      ]
+    },
+    {
+      "id": "None:49.489:8.467",
+      "name": "Mannheim",
+      "country": "Germany",
+      "country_code": null,
+      "lat": 49.48910140991211,
+      "lon": 8.466939926147461,
+      "refs": [
+        7,
+        9,
+        13,
+        16
+      ],
+      "institutions": [
+        "https://openalex.org/I4387153978"
+      ],
+      "xy": [
+        619.5090355790287,
+        117.31191361367897
+      ]
+    },
+    {
+      "id": "BE:51.220:4.400",
+      "name": "Antwerp",
+      "country": "Belgium",
+      "country_code": "BE",
+      "lat": 51.22047,
+      "lon": 4.40026,
+      "refs": [
+        7,
+        13,
+        16,
+        23
+      ],
+      "institutions": [
+        "https://openalex.org/I149213910"
+      ],
+      "xy": [
+        609.9959078640336,
+        112.2786351537564
+      ]
+    },
+    {
+      "id": "NL:51.843:5.853",
+      "name": "Nijmegen",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.8425,
+      "lon": 5.85278,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        23,
+        27,
+        30,
+        37,
+        38,
+        43,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I145872427",
+        "https://openalex.org/I4405261313",
+        "https://openalex.org/I4405259014"
+      ],
+      "xy": [
+        613.226041702718,
+        110.49811793264874
+      ]
+    },
+    {
+      "id": "FR:43.604:1.444",
+      "name": "Toulouse",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 43.60426,
+      "lon": 1.44367,
+      "refs": [
+        7,
+        13,
+        16,
+        23,
+        29
+      ],
+      "institutions": [
+        "https://openalex.org/I3019448017",
+        "https://openalex.org/I4405258862",
+        "https://openalex.org/I4405264399",
+        "https://openalex.org/I134560555",
+        "https://openalex.org/I4210138343"
+      ],
+      "xy": [
+        603.4759380399865,
+        135.2034974447183
+      ]
+    },
+    {
+      "id": "US:40.714:-74.006",
+      "name": "New York",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.71427,
+      "lon": -74.00597,
+      "refs": [
+        7,
+        17,
+        23,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I78577930",
+        "https://openalex.org/I2799503643",
+        "https://openalex.org/I125687163",
+        "https://openalex.org/I174216632"
+      ],
+      "xy": [
+        418.3574106644281,
+        144.3883864657639
+      ]
+    },
+    {
+      "id": "US:32.783:-96.807",
+      "name": "Dallas",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 32.78306,
+      "lon": -96.80667,
+      "refs": [
+        7,
+        16,
+        36,
+        40,
+        41
+      ],
+      "institutions": [
+        "https://openalex.org/I867280407"
+      ],
+      "xy": [
+        351.43123115307657,
+        170.7270673620745
+      ]
+    },
+    {
+      "id": "SE:55.706:13.193",
+      "name": "Lund",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 55.70584,
+      "lon": 13.19321,
+      "refs": [
+        7,
+        8,
+        15,
+        16,
+        25,
+        37
+      ],
+      "institutions": [
+        "https://openalex.org/I187531555",
+        "https://openalex.org/I4210137844"
+      ],
+      "xy": [
+        628.8114392234875,
+        99.79012647289503
+      ]
+    },
+    {
+      "id": "US:35.084:-106.651",
+      "name": "Albuquerque",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.08449,
+      "lon": -106.65114,
+      "refs": [
+        7,
+        13,
+        14,
+        16,
+        22,
+        23,
+        27,
+        28,
+        29,
+        30,
+        32,
+        33,
+        34,
+        36,
+        37,
+        38,
+        41,
+        43,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I169521973",
+        "https://openalex.org/I4405255059"
+      ],
+      "xy": [
+        329.4115432526993,
+        162.92885563400984
+      ]
+    },
+    {
+      "id": "NO:59.210:9.609",
+      "name": "Skien",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 59.20962142944336,
+      "lon": 9.608969688415527,
+      "refs": [
+        8
+      ],
+      "institutions": [
+        "https://openalex.org/I4210118808"
+      ],
+      "xy": [
+        620.2954549585604,
+        90.6459296576046
+      ]
+    },
+    {
+      "id": "NZ:-43.898:171.730",
+      "name": "Ashburton",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "lat": -43.89834,
+      "lon": 171.73011,
+      "refs": [
+        8
+      ],
+      "institutions": [
+        "https://openalex.org/I4210159752"
+      ],
+      "xy": [
+        1012.6327608371178,
+        445.7172664837732
+      ]
+    },
+    {
+      "id": "NZ:-45.874:170.504",
+      "name": "Dunedin",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "lat": -45.87416,
+      "lon": 170.50361,
+      "refs": [
+        8
+      ],
+      "institutions": [
+        "https://openalex.org/I80281795"
+      ],
+      "xy": [
+        1003.9338681578652,
+        451.83347230326615
+      ]
+    },
+    {
+      "id": "CA:53.550:-113.469",
+      "name": "Edmonton",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 53.55014,
+      "lon": -113.46871,
+      "refs": [
+        9
+      ],
+      "institutions": [
+        "https://openalex.org/I154425047"
+      ],
+      "xy": [
+        347.344042204758,
+        105.68881988848383
+      ]
+    },
+    {
+      "id": "US:37.804:-122.271",
+      "name": "Oakland",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 37.80437,
+      "lon": -122.2708,
+      "refs": [
+        10,
+        30
+      ],
+      "institutions": [
+        "https://openalex.org/I2803209242"
+      ],
+      "xy": [
+        294.49711111810564,
+        153.87116588967547
+      ]
+    },
+    {
+      "id": "US:32.716:-117.165",
+      "name": "San Diego",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 32.71571,
+      "lon": -117.16472,
+      "refs": [
+        10,
+        28,
+        33,
+        37,
+        38,
+        43,
+        44,
+        46,
+        48,
+        49,
+        50
+      ],
+      "institutions": [
+        "https://openalex.org/I36258959"
+      ],
+      "xy": [
+        299.056899010251,
+        170.95702109611784
+      ]
+    },
+    {
+      "id": "SE:59.329:18.069",
+      "name": "Stockholm",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 59.32938,
+      "lon": 18.06871,
+      "refs": [
+        11,
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I28166907"
+      ],
+      "xy": [
+        638.118675763452,
+        90.34368434887139
+      ]
+    },
+    {
+      "id": "NO:63.430:10.395",
+      "name": "Trondheim",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 63.43049,
+      "lon": 10.39506,
+      "refs": [
+        11,
+        21
+      ],
+      "institutions": [
+        "https://openalex.org/I204778367",
+        "https://openalex.org/I4210104358"
+      ],
+      "xy": [
+        621.036926168366,
+        80.43970851239811
+      ]
+    },
+    {
+      "id": "US:38.981:-77.100",
+      "name": "Bethesda",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 38.98067,
+      "lon": -77.10026,
+      "refs": [
+        13,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I1299303238",
+        "https://openalex.org/I4210158500"
+      ],
+      "xy": [
+        408.7075594930857,
+        150.010871265363
+      ]
+    },
+    {
+      "id": "US:35.994:-78.899",
+      "name": "Durham",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.99403,
+      "lon": -78.89862,
+      "refs": [
+        13,
+        36
+      ],
+      "institutions": [
+        "https://openalex.org/I170897317",
+        "https://openalex.org/I4210126298"
+      ],
+      "xy": [
+        400.81761687786013,
+        159.8801207220673
+      ]
+    },
+    {
+      "id": "HU:47.498:19.040",
+      "name": "Budapest",
+      "country": "Hungary",
+      "country_code": "HU",
+      "lat": 47.49835,
+      "lon": 19.04045,
+      "refs": [
+        13
+      ],
+      "institutions": [
+        "https://openalex.org/I101202996"
+      ],
+      "xy": [
+        644.5621590135243,
+        123.23389767603317
+      ]
+    },
+    {
+      "id": "NL:51.842:5.853",
+      "name": "Nijmegen",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.842498779296875,
+      "lon": 5.852779865264893,
+      "refs": [
+        13,
+        16,
+        27,
+        30,
+        37,
+        38,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I2802934949"
+      ],
+      "xy": [
+        613.2260415352471,
+        110.49812141206391
+      ]
+    },
+    {
+      "id": "SE:56.031:14.152",
+      "name": "Kristianstad",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 56.031288146972656,
+      "lon": 14.152420043945312,
+      "refs": [
+        15,
+        25
+      ],
+      "institutions": [
+        "https://openalex.org/I4210146096"
+      ],
+      "xy": [
+        630.813333589529,
+        98.9170510384231
+      ]
+    },
+    {
+      "id": "AT:47.263:11.395",
+      "name": "Innsbruck",
+      "country": "Austria",
+      "country_code": "AT",
+      "lat": 47.26266,
+      "lon": 11.39454,
+      "refs": [
+        16
+      ],
+      "institutions": [
+        "https://openalex.org/I143397708",
+        "https://openalex.org/I190249584"
+      ],
+      "xy": [
+        626.7157056551139,
+        123.94417627792853
+      ]
+    },
+    {
+      "id": "DE:52.371:9.733",
+      "name": "Hanover",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 52.37052,
+      "lon": 9.73322,
+      "refs": [
+        16
+      ],
+      "institutions": [
+        "https://openalex.org/I34809795"
+      ],
+      "xy": [
+        621.8960973495558,
+        108.99856687860836
+      ]
+    },
+    {
+      "id": "CH:46.948:7.447",
+      "name": "Bern",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "lat": 46.94809,
+      "lon": 7.44744,
+      "refs": [
+        16
+      ],
+      "institutions": [
+        "https://openalex.org/I118564535",
+        "https://openalex.org/I2801112126"
+      ],
+      "xy": [
+        617.5029744499321,
+        124.89511323805365
+      ]
+    },
+    {
+      "id": "DE:51.336:12.389",
+      "name": "Leipzig",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.33573532104492,
+      "lon": 12.388835906982422,
+      "refs": [
+        16,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I4210130445"
+      ],
+      "xy": [
+        628.1160980759681,
+        111.94756648207598
+      ]
+    },
+    {
+      "id": "IT:45.408:11.886",
+      "name": "Padua",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.40797,
+      "lon": 11.88586,
+      "refs": [
+        19
+      ],
+      "institutions": [
+        "https://openalex.org/I138689650"
+      ],
+      "xy": [
+        628.2543216808211,
+        129.59842938180003
+      ]
+    },
+    {
+      "id": "US:42.340:-71.105",
+      "name": "Boston",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.339786529541016,
+      "lon": -71.10518646240234,
+      "refs": [
+        21
+      ],
+      "institutions": [
+        "https://openalex.org/I1316535847"
+      ],
+      "xy": [
+        427.3210934610735,
+        139.19225293441443
+      ]
+    },
+    {
+      "id": "US:33.749:-84.388",
+      "name": "Atlanta",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 33.749,
+      "lon": -84.38798,
+      "refs": [
+        22,
+        36
+      ],
+      "institutions": [
+        "https://openalex.org/I150468666",
+        "https://openalex.org/I130701444"
+      ],
+      "xy": [
+        384.3805910916054,
+        167.4397855842406
+      ]
+    },
+    {
+      "id": "US:33.756:-84.387",
+      "name": "Atlanta",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 33.7558708190918,
+      "lon": -84.38748931884766,
+      "refs": [
+        22,
+        36
+      ],
+      "institutions": [
+        "https://openalex.org/I4210133909"
+      ],
+      "xy": [
+        384.38950254816166,
+        167.41647564165095
+      ]
+    },
+    {
+      "id": "NL:51.922:4.479",
+      "name": "Rotterdam",
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "lat": 51.9225,
+      "lon": 4.47917,
+      "refs": [
+        23
+      ],
+      "institutions": [
+        "https://openalex.org/I2801952686"
+      ],
+      "xy": [
+        610.1150991563801,
+        110.2702162906009
+      ]
+    },
+    {
+      "id": "GB:51.522:-0.122",
+      "name": "London",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.522178649902344,
+      "lon": -0.12220299988985062,
+      "refs": [
+        27
+      ],
+      "institutions": [
+        "https://openalex.org/I165524941"
+      ],
+      "xy": [
+        599.7230982172383,
+        111.41314255639574
+      ]
+    },
+    {
+      "id": "NO:60.394:5.322",
+      "name": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.3939094543457,
+      "lon": 5.3219170570373535,
+      "refs": [
+        28,
+        29
+      ],
+      "institutions": [
+        "https://openalex.org/I4210157923"
+      ],
+      "xy": [
+        611.1094056528716,
+        87.68848116389921
+      ]
+    },
+    {
+      "id": "IT:43.709:10.404",
+      "name": "Pisa",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 43.70853,
+      "lon": 10.4036,
+      "refs": [
+        28,
+        31
+      ],
+      "institutions": [
+        "https://openalex.org/I108290504"
+      ],
+      "xy": [
+        625.0307636780891,
+        134.87672585149565
+      ]
+    },
+    {
+      "id": "ES:41.543:2.109",
+      "name": "Sabadell",
+      "country": "Spain",
+      "country_code": "ES",
+      "lat": 41.54328918457031,
+      "lon": 2.10942006111145,
+      "refs": [
+        29,
+        38,
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I4210137168"
+      ],
+      "xy": [
+        605.1497664190955,
+        141.72892170928685
+      ]
+    },
+    {
+      "id": "DK:55.928:12.301",
+      "name": "Hillerød",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.92791,
+      "lon": 12.30081,
+      "refs": [
+        33,
+        38
+      ],
+      "institutions": [
+        "https://openalex.org/I4210145385"
+      ],
+      "xy": [
+        626.807579539255,
+        99.19387368521518
+      ]
+    },
+    {
+      "id": "DK:55.657:12.474",
+      "name": "Hvidovre",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.657188415527344,
+      "lon": 12.473640441894531,
+      "refs": [
+        33,
+        38,
+        46
+      ],
+      "institutions": [
+        "https://openalex.org/I2801942218"
+      ],
+      "xy": [
+        627.2522451929879,
+        99.92104547798994
+      ]
+    },
+    {
+      "id": "DK:55.770:12.504",
+      "name": "Kongens Lyngby",
+      "country": "Denmark",
+      "country_code": "DK",
+      "lat": 55.77044,
+      "lon": 12.50378,
+      "refs": [
+        33,
+        38,
+        46
+      ],
+      "institutions": [
+        "https://openalex.org/I96673099"
+      ],
+      "xy": [
+        627.289597774936,
+        99.61645224394582
+      ]
+    },
+    {
+      "id": "AU:-37.814:144.963",
+      "name": "Melbourne",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -37.814,
+      "lon": 144.96332,
+      "refs": [
+        33,
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I165779595",
+        "https://openalex.org/I242743682"
+      ],
+      "xy": [
+        962.1814062139351,
+        426.16058109401797
+      ]
+    },
+    {
+      "id": "IE:52.665:-8.623",
+      "name": "Limerick",
+      "country": "Ireland",
+      "country_code": "IE",
+      "lat": 52.66472,
+      "lon": -8.62306,
+      "refs": [
+        35
+      ],
+      "institutions": [
+        "https://openalex.org/I230495080"
+      ],
+      "xy": [
+        580.6504509950237,
+        108.16785102975041
+      ]
+    },
+    {
+      "id": "US:30.267:-97.743",
+      "name": "Austin",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 30.26715,
+      "lon": -97.74306,
+      "refs": [
+        36
+      ],
+      "institutions": [
+        "https://openalex.org/I86519309"
+      ],
+      "xy": [
+        345.9800174615297,
+        179.38070614298005
+      ]
+    },
+    {
+      "id": "GB:51.752:-1.256",
+      "name": "Oxford",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.75222,
+      "lon": -1.25596,
+      "refs": [
+        37
+      ],
+      "institutions": [
+        "https://openalex.org/I40120149"
+      ],
+      "xy": [
+        597.1596238080914,
+        110.75560565703555
+      ]
+    },
+    {
+      "id": "GB:51.765:-1.221",
+      "name": "Oxford",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.76520919799805,
+      "lon": -1.2205430269241333,
+      "refs": [
+        37
+      ],
+      "institutions": [
+        "https://openalex.org/I4210101881"
+      ],
+      "xy": [
+        597.2400235820687,
+        110.71853953811956
+      ]
+    },
+    {
+      "id": "US:40.706:-73.619",
+      "name": "Hempstead",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.70621,
+      "lon": -73.61874,
+      "refs": [
+        37,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I139290212",
+        "https://openalex.org/I4210106353"
+      ],
+      "xy": [
+        419.29853976907305,
+        144.4143372519781
+      ]
+    },
+    {
+      "id": "US:41.499:-81.695",
+      "name": "Cleveland",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 41.4995,
+      "lon": -81.69541,
+      "refs": [
+        37,
+        38,
+        46,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I1316902750"
+      ],
+      "xy": [
+        400.4984114128016,
+        141.86890978865137
+      ]
+    },
+    {
+      "id": "DE:51.457:7.012",
+      "name": "Essen",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 51.45656967163086,
+      "lon": 7.012279987335205,
+      "refs": [
+        37,
+        38,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I4210119759",
+        "https://openalex.org/I62318514"
+      ],
+      "xy": [
+        615.89801813436,
+        111.60105190240088
+      ]
+    },
+    {
+      "id": "JP:35.641:139.268",
+      "name": "Tokyo",
+      "country": "Japan",
+      "country_code": "JP",
+      "lat": 35.64071273803711,
+      "lon": 139.26840209960938,
+      "refs": [
+        38,
+        43
+      ],
+      "institutions": [
+        "https://openalex.org/I4210120479"
+      ],
+      "xy": [
+        952.274650087081,
+        161.06211727473772
+      ]
+    },
+    {
+      "id": "US:35.913:-79.056",
+      "name": "Chapel Hill",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 35.9132,
+      "lon": -79.05584,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I114027177"
+      ],
+      "xy": [
+        400.33123287573176,
+        160.15027055728976
+      ]
+    },
+    {
+      "id": "IE:53.333:-6.249",
+      "name": "Dublin",
+      "country": "Ireland",
+      "country_code": "IE",
+      "lat": 53.33306121826172,
+      "lon": -6.248889923095703,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I205274468"
+      ],
+      "xy": [
+        586.0592837538048,
+        106.29364812527407
+      ]
+    },
+    {
+      "id": "AU:-34.929:138.599",
+      "name": "Adelaide",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -34.92866,
+      "lon": 138.59863,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I5681781",
+        "https://openalex.org/I4210120278"
+      ],
+      "xy": [
+        951.9386522622375,
+        416.546877204896
+      ]
+    },
+    {
+      "id": "CA:51.050:-114.085",
+      "name": "Calgary",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 51.05011,
+      "lon": -114.08529,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I168635309"
+      ],
+      "xy": [
+        340.4677535471908,
+        112.7688820981922
+      ]
+    },
+    {
+      "id": "GB:55.865:-4.258",
+      "name": "Glasgow",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 55.86515,
+      "lon": -4.25763,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I7882870"
+      ],
+      "xy": [
+        590.7158126045862,
+        99.36216172876635
+      ]
+    },
+    {
+      "id": "US:39.952:-75.164",
+      "name": "Philadelphia",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 39.95238,
+      "lon": -75.16362,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I79576946"
+      ],
+      "xy": [
+        414.625883927513,
+        146.84936107142474
+      ]
+    },
+    {
+      "id": "AU:-33.868:151.207",
+      "name": "Sydney",
+      "country": "Australia",
+      "country_code": "AU",
+      "lat": -33.86785125732422,
+      "lon": 151.2073211669922,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I16667517",
+        "https://openalex.org/I31746571"
+      ],
+      "xy": [
+        986.1115388197536,
+        412.9632824151331
+      ]
+    },
+    {
+      "id": "CA:49.250:-123.119",
+      "name": "Vancouver",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 49.24966,
+      "lon": -123.11934,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I141945490"
+      ],
+      "xy": [
+        315.7709075723829,
+        118.01672296378192
+      ]
+    },
+    {
+      "id": "IT:45.536:10.215",
+      "name": "Brescia",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.53558,
+      "lon": 10.21472,
+      "refs": [
+        40,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I79940851",
+        "https://openalex.org/I4210114614"
+      ],
+      "xy": [
+        624.2592882022672,
+        129.20577620998017
+      ]
+    },
+    {
+      "id": "US:40.761:-111.891",
+      "name": "Salt Lake City",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 40.76078,
+      "lon": -111.89105,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I223532165"
+      ],
+      "xy": [
+        325.45269129077053,
+        144.2386734818515
+      ]
+    },
+    {
+      "id": "CA:44.230:-76.481",
+      "name": "Kingston",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 44.22976,
+      "lon": -76.48098,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I204722609",
+        "https://openalex.org/I4405268446"
+      ],
+      "xy": [
+        416.65761508450817,
+        133.24824285863687
+      ]
+    },
+    {
+      "id": "US:42.963:-85.668",
+      "name": "Grand Rapids",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.96336,
+      "lon": -85.66809,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I1313558178"
+      ],
+      "xy": [
+        392.8276704721834,
+        137.2192403753845
+      ]
+    },
+    {
+      "id": "GB:51.480:-3.180",
+      "name": "Cardiff",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 51.48,
+      "lon": -3.18,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I79510175"
+      ],
+      "xy": [
+        592.7918262982498,
+        111.53392644759381
+      ]
+    },
+    {
+      "id": "PL:52.407:16.930",
+      "name": "Poznan",
+      "country": "Poland",
+      "country_code": "PL",
+      "lat": 52.40692138671875,
+      "lon": 16.929929733276367,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I120230055"
+      ],
+      "xy": [
+        638.0740895100561,
+        108.89559515261428
+      ]
+    },
+    {
+      "id": "GB:52.189:-2.220",
+      "name": "Worcester",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "lat": 52.18935,
+      "lon": -2.22001,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I808010"
+      ],
+      "xy": [
+        594.9980497562331,
+        109.51184050730248
+      ]
+    },
+    {
+      "id": "US:39.290:-76.612",
+      "name": "Baltimore",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 39.29038,
+      "lon": -76.61219,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I145311948",
+        "https://openalex.org/I2799853436"
+      ],
+      "xy": [
+        410.27746283900495,
+        149.0004807725239
+      ]
+    },
+    {
+      "id": "SE:57.707:11.967",
+      "name": "Gothenburg",
+      "country": "Sweden",
+      "country_code": "SE",
+      "lat": 57.70716,
+      "lon": 11.96679,
+      "refs": [
+        40,
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I881427289"
+      ],
+      "xy": [
+        625.6464499356275,
+        94.4969013736966
+      ]
+    },
+    {
+      "id": "CA:43.706:-79.399",
+      "name": "Toronto",
+      "country": "Canada",
+      "country_code": "CA",
+      "lat": 43.70643,
+      "lon": -79.39864,
+      "refs": [
+        40
+      ],
+      "institutions": [
+        "https://openalex.org/I185261750"
+      ],
+      "xy": [
+        408.966363516795,
+        134.88330376628957
+      ]
+    },
+    {
+      "id": "DE:50.809:8.771",
+      "name": "Marburg",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 50.80904006958008,
+      "lon": 8.770689964294434,
+      "refs": [
+        40,
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I161103922"
+      ],
+      "xy": [
+        619.9924248528548,
+        113.46450471123077
+      ]
+    },
+    {
+      "id": "NO:60.375:5.355",
+      "name": "Bergen",
+      "country": "Norway",
+      "country_code": "NO",
+      "lat": 60.3748664855957,
+      "lon": 5.355280876159668,
+      "refs": [
+        42
+      ],
+      "institutions": [
+        "https://openalex.org/I4210142572"
+      ],
+      "xy": [
+        611.1811818258424,
+        87.73547629151025
+      ]
+    },
+    {
+      "id": "FR:47.249:6.018",
+      "name": "Besançon",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 47.24878,
+      "lon": 6.01815,
+      "refs": [
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I4210087978",
+        "https://openalex.org/I4210118524"
+      ],
+      "xy": [
+        614.1116794027032,
+        123.98606434157782
+      ]
+    },
+    {
+      "id": "FR:48.683:2.133",
+      "name": "Gif-sur-Yvette",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.68333,
+      "lon": 2.13333,
+      "refs": [
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I277688954",
+        "https://openalex.org/I4210128565"
+      ],
+      "xy": [
+        604.9471068145089,
+        119.69197219594875
+      ]
+    },
+    {
+      "id": "IT:45.464:9.190",
+      "name": "Milan",
+      "country": "Italy",
+      "country_code": "IT",
+      "lat": 45.46427,
+      "lon": 9.18951,
+      "refs": [
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I189158943",
+        "https://openalex.org/I2803066834"
+      ],
+      "xy": [
+        621.8358012726387,
+        129.42513080815905
+      ]
+    },
+    {
+      "id": "FR:48.919:2.254",
+      "name": "Colombes",
+      "country": "France",
+      "country_code": "FR",
+      "lat": 48.91882,
+      "lon": 2.25404,
+      "refs": [
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I4210087884"
+      ],
+      "xy": [
+        605.2173125908683,
+        118.99397788927939
+      ]
+    },
+    {
+      "id": "DE:48.137:11.575",
+      "name": "Munich",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 48.13743,
+      "lon": 11.57549,
+      "refs": [
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I4405258074",
+        "https://openalex.org/I8204097"
+      ],
+      "xy": [
+        626.9580161362418,
+        121.3175828246163
+      ]
+    },
+    {
+      "id": "DE:49.982:8.280",
+      "name": "Mainz",
+      "country": "Germany",
+      "country_code": "DE",
+      "lat": 49.98185,
+      "lon": 8.28008,
+      "refs": [
+        45
+      ],
+      "institutions": [
+        "https://openalex.org/I197323543"
+      ],
+      "xy": [
+        619.0026727689537,
+        115.86806882835455
+      ]
+    },
+    {
+      "id": "CH:46.516:6.633",
+      "name": "Lausanne",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "lat": 46.516,
+      "lon": 6.63282,
+      "refs": [
+        48
+      ],
+      "institutions": [
+        "https://openalex.org/I2802229882",
+        "https://openalex.org/I97565354"
+      ],
+      "xy": [
+        615.6390861225163,
+        126.20674384583845
+      ]
+    },
+    {
+      "id": "US:42.278:-83.741",
+      "name": "Ann Arbor",
+      "country": "United States",
+      "country_code": "US",
+      "lat": 42.27756,
+      "lon": -83.74088,
+      "refs": [
+        58
+      ],
+      "institutions": [
+        "https://openalex.org/I27837315"
+      ],
+      "xy": [
+        396.5508042680729,
+        139.38976826557646
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "number": 1,
+      "title": "Artificial Intelligence for Digital Breast Tomosynthesis Screening with and without Prior Examinations in BreastScreen Norway",
+      "year": 2026,
+      "doi": "10.1148/ryai.250988",
+      "journal": "Radiology: Artificial Intelligence"
+    },
+    {
+      "number": 2,
+      "title": "Missed and true interval cancers on digital breast tomosynthesis screening mammograms: radiologists’ assessment and artificial intelligence markings",
+      "year": 2026,
+      "doi": "10.1177/20584601261467016",
+      "journal": "Acta Radiologica Open"
+    },
+    {
+      "number": 3,
+      "title": "Variation in Public Health Reimbursement Policies of ECT and rTMS Across 28 European Countries: A Call for Evidence-Based Policy Reform from the ECNP Neuromodulation Network",
+      "year": 2026,
+      "doi": "10.1016/j.nsa.2026.107030",
+      "journal": "Neuroscience Applied"
+    },
+    {
+      "number": 4,
+      "title": "Diverging Trajectories of Depressive Symptoms During Electroconvulsive Therapy: Toward Personalized Treatment",
+      "year": 2026,
+      "doi": "10.1016/j.bpsgos.2026.100722",
+      "journal": "Biological Psychiatry Global Open Science"
+    },
+    {
+      "number": 5,
+      "title": "Electroconvulsive therapy induces rapid microstructural and macrostructural changes, but microstructural changes are longer-lasting",
+      "year": 2026,
+      "doi": "10.1007/s00406-026-02195-0",
+      "journal": "European Archives of Psychiatry and Clinical Neuroscience"
+    },
+    {
+      "number": 6,
+      "title": "Effects of Electroconvulsive Therapy on Brain Structure: A Neuroradiological Investigation Into White Matter Hyperintensities, Atrophy, and Microbleeds",
+      "year": 2025,
+      "doi": "10.1016/j.bpsc.2024.12.004",
+      "journal": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
+    },
+    {
+      "number": 7,
+      "title": "Effects of electroconvulsive therapy on hippocampal longitudinal axis and its association with cognitive side effects",
+      "year": 2025,
+      "doi": "10.1038/s43856-025-01120-1",
+      "journal": "Communications Medicine"
+    },
+    {
+      "number": 8,
+      "title": "Cognitive deficits in treatment-resistant depression: protocol for a systematic review and meta-analysis",
+      "year": 2025,
+      "doi": "10.1136/bmjopen-2024-094247",
+      "journal": "BMJ Open"
+    },
+    {
+      "number": 9,
+      "title": "Epigenetic and blood markers associated with response to electroconvulsive therapy in patients with depressive disorders",
+      "year": 2025,
+      "doi": "10.1038/s41398-025-03772-y",
+      "journal": "Translational Psychiatry"
+    },
+    {
+      "number": 10,
+      "title": "Acute and transient change in brain water content induced by a single electroconvulsive therapy session",
+      "year": 2025,
+      "doi": "10.1016/j.brs.2025.10.021",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 11,
+      "title": "Unveiling regional differences in glioblastoma patient survival with real-world data from the Norwegian brain tumor quality registry",
+      "year": 2025,
+      "doi": "10.1007/s11060-025-05218-3",
+      "journal": "Journal of Neuro-Oncology"
+    },
+    {
+      "number": 12,
+      "title": "Neurobiological mechanisms of electroconvulsive therapy for depression: Insights into hippocampal volumetric increases from clinical and preclinical studies",
+      "year": 2024,
+      "doi": "10.1111/jnc.16054",
+      "journal": "Journal of Neurochemistry"
+    },
+    {
+      "number": 13,
+      "title": "Electroconvulsive therapy-induced volumetric brain changes converge on a common causal circuit in depression",
+      "year": 2024,
+      "doi": "10.1038/s41380-023-02318-2",
+      "journal": "Molecular Psychiatry"
+    },
+    {
+      "number": 14,
+      "title": "Development and validation of a multimodal neuroimaging biomarker for electroconvulsive therapy outcome in depression: a multicenter machine learning analysis",
+      "year": 2024,
+      "doi": "10.1017/s0033291723002040",
+      "journal": "Psychological Medicine"
+    },
+    {
+      "number": 15,
+      "title": "Improvement of persistent impairments in executive functions and attention following electroconvulsive therapy in a case control longitudinal follow up study",
+      "year": 2024,
+      "doi": "10.1186/s12888-024-06270-5",
+      "journal": "BMC Psychiatry"
+    },
+    {
+      "number": 16,
+      "title": "Electroconvulsive therapy and cognitive performance from the Global ECT MRI Research Collaboration",
+      "year": 2024,
+      "doi": "10.1016/j.jpsychires.2024.09.013",
+      "journal": "Journal of Psychiatric Research"
+    },
+    {
+      "number": 17,
+      "title": "Characterization of gray matter volume changes from one week to 6 months after termination of electroconvulsive therapy in depressed patients",
+      "year": 2024,
+      "doi": "10.1016/j.brs.2024.07.015",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 18,
+      "title": "Impact of subjective and objective language function and psychological distress on quality of life in glioma patients awaiting surgery",
+      "year": 2024,
+      "doi": "10.1080/02687038.2024.2336705",
+      "journal": "Aphasiology"
+    },
+    {
+      "number": 19,
+      "title": "The Dark and Gloomy Brain: Grey Matter Volume Alterations in Major Depressive Disorder–Fine-Grained Meta-Analyses",
+      "year": 2024,
+      "doi": "10.1155/2024/6673522",
+      "journal": "Depression and Anxiety"
+    },
+    {
+      "number": 20,
+      "title": "Exploring New Electroencephalogram Parameters in Electroconvulsive Therapy",
+      "year": 2024,
+      "doi": "10.1097/yct.0000000000000930",
+      "journal": "The Journal of ECT"
+    },
+    {
+      "number": 21,
+      "title": "Stable glioma incidence and increased patient survival over the past two decades in Norway: a nationwide registry-based cohort study",
+      "year": 2024,
+      "doi": "10.2340/1651-226x.2024.24970",
+      "journal": "Acta Oncologica"
+    },
+    {
+      "number": 22,
+      "title": "Longitudinal resting-state network connectivity changes in electroconvulsive therapy patients compared to healthy controls",
+      "year": 2024,
+      "doi": "10.1016/j.brs.2023.12.005",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 23,
+      "title": "Sex-specifics of ECT outcome",
+      "year": 2023,
+      "doi": "10.1016/j.jad.2022.12.144",
+      "journal": "Journal of Affective Disorders"
+    },
+    {
+      "number": 24,
+      "title": "Electroconvulsive therapy triggers a reversible decrease in brain N-acetylaspartate",
+      "year": 2023,
+      "doi": "10.3389/fpsyt.2023.1155689",
+      "journal": "Frontiers in Psychiatry"
+    },
+    {
+      "number": 25,
+      "title": "Neurobiological mechanisms of ECT and TMS treatment in depression: study protocol of a multimodal magnetic resonance investigation",
+      "year": 2023,
+      "doi": "10.1186/s12888-023-05239-0",
+      "journal": "BMC Psychiatry"
+    },
+    {
+      "number": 26,
+      "title": "Feasibility of deep learning-based tumor segmentation for target delineation and response assessment in grade-4 glioma using multi-parametric MRI",
+      "year": 2023,
+      "doi": "10.1093/noajnl/vdad037",
+      "journal": "Neuro-Oncology Advances"
+    },
+    {
+      "number": 27,
+      "title": "Effective resting-state connectivity in severe unipolar depression before and after electroconvulsive therapy",
+      "year": 2023,
+      "doi": "10.1016/j.brs.2023.07.054",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 28,
+      "title": "The Neurobiological Effects of Electroconvulsive Therapy Studied Through Magnetic Resonance: What Have We Learned, and Where Do We Go?",
+      "year": 2022,
+      "doi": "10.1016/j.biopsych.2021.05.023",
+      "journal": "Biological Psychiatry"
+    },
+    {
+      "number": 29,
+      "title": "Neural Substrates of Psychotic Depression: Findings From the Global ECT-MRI Research Collaboration",
+      "year": 2022,
+      "doi": "10.1093/schbul/sbab122",
+      "journal": "Schizophrenia Bulletin"
+    },
+    {
+      "number": 30,
+      "title": "Multimodal multi-center analysis of electroconvulsive therapy effects in depression: Brainwide gray matter increase without functional changes",
+      "year": 2022,
+      "doi": "10.1016/j.brs.2022.07.053",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 31,
+      "title": "Short and long-term effects of single and multiple sessions of electroconvulsive therapy on brain gray matter volumes",
+      "year": 2021,
+      "doi": "10.1016/j.brs.2021.08.018",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 32,
+      "title": "Magnetic Resonance Spectroscopy in Depressed Subjects Treated With Electroconvulsive Therapy—A Systematic Review of Literature",
+      "year": 2021,
+      "doi": "10.3389/fpsyt.2021.608857",
+      "journal": "Frontiers in Psychiatry"
+    },
+    {
+      "number": 33,
+      "title": "Elevated body weight modulates subcortical volume change and associated clinical response following electroconvulsive therapy",
+      "year": 2021,
+      "doi": "10.1503/jpn.200176",
+      "journal": "Journal of Psychiatry and Neuroscience"
+    },
+    {
+      "number": 34,
+      "title": "Accounting for symptom heterogeneity can improve neuroimaging models of antidepressant response after electroconvulsive therapy",
+      "year": 2021,
+      "doi": "10.1002/hbm.25620",
+      "journal": "Human Brain Mapping"
+    },
+    {
+      "number": 35,
+      "title": "A Longitudinal Comparison Between Depressed Patients Receiving Electroconvulsive Therapy and Healthy Controls on Specific Memory Functions",
+      "year": 2020,
+      "doi": "10.4088/pcc.19m02547",
+      "journal": "The Primary Care Companion For CNS Disorders"
+    },
+    {
+      "number": 36,
+      "title": "Anterior cingulate gamma‐aminobutyric acid concentrations and electroconvulsive therapy",
+      "year": 2020,
+      "doi": "10.1002/brb3.1833",
+      "journal": "Brain and Behavior"
+    },
+    {
+      "number": 37,
+      "title": "Structural changes induced by electroconvulsive therapy are associated with clinical outcome",
+      "year": 2020,
+      "doi": "10.1016/j.brs.2020.02.020",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 38,
+      "title": "Brain Changes Induced by Electroconvulsive Therapy Are Broadly Distributed",
+      "year": 2020,
+      "doi": "10.1016/j.biopsych.2019.07.010",
+      "journal": "Biological Psychiatry"
+    },
+    {
+      "number": 39,
+      "title": "Sequential bortezomib and temozolomide treatment promotes immunological responses in glioblastoma patients with positive clinical outcomes: A phase 1B study",
+      "year": 2020,
+      "doi": "10.1002/iid3.315",
+      "journal": "Immunity, Inflammation and Disease"
+    },
+    {
+      "number": 40,
+      "title": "International Consortium on the Genetics of Electroconvulsive Therapy and Severe Depressive Disorders (Gen-ECT-ic)",
+      "year": 2020,
+      "doi": "10.1007/s00406-019-01087-w",
+      "journal": "European Archives of Psychiatry and Clinical Neuroscience"
+    },
+    {
+      "number": 41,
+      "title": "Depressive Symptom Dimensions in Treatment-Resistant Major Depression and Their Modulation With Electroconvulsive Therapy",
+      "year": 2020,
+      "doi": "10.1097/yct.0000000000000623",
+      "journal": "The Journal of ECT"
+    },
+    {
+      "number": 42,
+      "title": "The effect of electroconvulsive therapy (ECT) on serum tryptophan metabolites",
+      "year": 2019,
+      "doi": "10.1016/j.brs.2019.05.018",
+      "journal": "Brain Stimulation"
+    },
+    {
+      "number": 43,
+      "title": "Electric field causes volumetric changes in the human brain",
+      "year": 2019,
+      "doi": "10.7554/elife.49115",
+      "journal": "eLife"
+    },
+    {
+      "number": 44,
+      "title": "Improved characterization of cerebral infarction using combined tissue T2 and high b-value diffusion MRI in post-thrombectomy patients: a feasibility study",
+      "year": 2019,
+      "doi": "10.1177/0284185118820063",
+      "journal": "Acta Radiologica"
+    },
+    {
+      "number": 45,
+      "title": "Prospective cohort study of early biosignatures of response to lithium in bipolar-I-disorders: overview of the H2020-funded R-LiNK initiative",
+      "year": 2019,
+      "doi": "10.1186/s40345-019-0156-x",
+      "journal": "International Journal of Bipolar Disorders"
+    },
+    {
+      "number": 46,
+      "title": "Volume of the Human Hippocampus and Clinical Response Following Electroconvulsive Therapy",
+      "year": 2018,
+      "doi": "10.1016/j.biopsych.2018.05.017",
+      "journal": "Biological Psychiatry"
+    },
+    {
+      "number": 47,
+      "title": "Opposite brain laterality in analogous auditory and visual tests",
+      "year": 2017,
+      "doi": "10.1080/1357650x.2016.1269335",
+      "journal": "Laterality: Asymmetries of Body, Brain and Cognition"
+    },
+    {
+      "number": 48,
+      "title": "The Global ECT-MRI Research Collaboration (GEMRIC): Establishing a multi-site investigation of the neural mechanisms underlying response to electroconvulsive therapy",
+      "year": 2017,
+      "doi": "10.1016/j.nicl.2017.02.009",
+      "journal": "NeuroImage: Clinical"
+    },
+    {
+      "number": 49,
+      "title": "Brain morphology in school-aged children with prenatal opioid exposure: A structural MRI study",
+      "year": 2017,
+      "doi": "10.1016/j.earlhumdev.2017.01.009",
+      "journal": "Early Human Development"
+    },
+    {
+      "number": 50,
+      "title": "Effects of ECT in treatment of depression: study protocol for a prospective neuroradiological study of acute and longitudinal effects on brain structure and function",
+      "year": 2015,
+      "doi": "10.1186/s12888-015-0477-y",
+      "journal": "BMC Psychiatry"
+    },
+    {
+      "number": 51,
+      "title": "Transient release kinetics of rod bipolar cells revealed by capacitance measurement of exocytosis from axon terminals in rat retinal slices",
+      "year": 2010,
+      "doi": "10.1113/jphysiol.2010.186916",
+      "journal": "The Journal of Physiology"
+    },
+    {
+      "number": 52,
+      "title": "Electrical Coupling and Passive Membrane Properties of AII Amacrine Cells",
+      "year": 2010,
+      "doi": "10.1152/jn.01105.2009",
+      "journal": "Journal of Neurophysiology"
+    },
+    {
+      "number": 53,
+      "title": "Passive membrane properties and electrotonic signal processing in retinal rod bipolar cells",
+      "year": 2009,
+      "doi": "10.1113/jphysiol.2008.165415",
+      "journal": "The Journal of Physiology"
+    },
+    {
+      "number": 54,
+      "title": "Vesicular release of glutamate from hippocampal neurons in culture: an immunocytochemical assay",
+      "year": 2008,
+      "doi": "10.1007/s00221-007-1118-6",
+      "journal": "Experimental Brain Research"
+    },
+    {
+      "number": 55,
+      "title": "Electrical Synapses Between AII Amacrine Cells: Dynamic Range and Functional Consequences of Variation in Junctional Conductance",
+      "year": 2008,
+      "doi": "10.1152/jn.90957.2008",
+      "journal": "Journal of Neurophysiology"
+    },
+    {
+      "number": 56,
+      "title": "Antibodies to CRMP3–4 associated with limbic encephalitis and thymoma",
+      "year": 2007,
+      "doi": "10.1111/j.1365-2249.2007.03379.x",
+      "journal": "Clinical and Experimental Immunology"
+    },
+    {
+      "number": 57,
+      "title": "Patch-Clamp Investigations and Compartmental Modeling of Rod Bipolar Axon Terminals in an In Vitro Thin-Slice Preparation of the Mammalian Retina",
+      "year": 2007,
+      "doi": "10.1152/jn.01010.2006",
+      "journal": "Journal of Neurophysiology"
+    },
+    {
+      "number": 58,
+      "title": "Intramolecular protein-protein and protein-lipid interactions control the conformation and subcellular targeting of neuronal Ykt6",
+      "year": 2004,
+      "doi": "10.1242/jcs.01314",
+      "journal": "Journal of Cell Science"
+    },
+    {
+      "number": 59,
+      "title": "Sec6 is localized to the plasma membrane of mature synaptic terminals and is transported with secretogranin ii-containing vesicles",
+      "year": 2003,
+      "doi": "10.1016/s0306-4522(03)00065-4",
+      "journal": "Neuroscience"
+    }
+  ],
+  "home": [
+    611.1141691213124,
+    87.69074981060038
+  ],
+  "coverage": 58,
+  "unknown_institutions": 0
+}
